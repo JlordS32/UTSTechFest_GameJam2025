@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,20 +15,23 @@ public class PlantGrow : MonoBehaviour
 
     // VARIABLES
     GameObject _currentSprite;
+    CurrencyManager _currencyManager;
+    int _lastKnownLevel = -1;
 
     void Start()
     {
+        _currencyManager = FindFirstObjectByType<CurrencyManager>();
         _playerData.ResetData();
         UpdateSprite();
     }
 
-    public void OnTest()
+    void Update()
     {
-        _playerData.AddEXP(10);
-        Debug.Log($"LVL: {_playerData.LVL} EXP: {_playerData.EXP}");
-        Debug.Log($"ATK: {_playerData.ATK} HP: {_playerData.HP}");
-
-        UpdateSprite();
+        if (_playerData.LVL != _lastKnownLevel)
+        {
+            _lastKnownLevel = _playerData.LVL;
+            UpdateSprite();
+        }
     }
 
     void UpdateSprite()
@@ -38,5 +42,19 @@ public class PlantGrow : MonoBehaviour
             Destroy(_currentSprite);
 
         _currentSprite = Instantiate(_levelPrefabs[index], _spriteParent);
+    }
+
+    void OnMouseDown()
+    {
+        Debug.Log("Water plant");
+        WaterPlant();
+    }
+
+    void WaterPlant()
+    {
+        if (_currencyManager.SpendWater() && _currencyManager.SpendSeed())
+        {
+            _playerData.AddEXP(_currencyManager.GetConsumptionRate() * 1.5f);
+        }
     }
 }

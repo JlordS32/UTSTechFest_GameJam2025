@@ -23,7 +23,7 @@ public class UpgradePanelUI : MonoBehaviour
         foreach (var data in _upgrades.upgrades)
         {
             GameObject go = Instantiate(_upgradeComponent, transform);
-            go.GetComponent<UpgradeUI>().Setup(data.UpgradeName, data.OnUpgrade.Invoke);
+            go.GetComponent<UpgradeUI>().Setup(data.UpgradeName, data.UpgradeRate, data.OnUpgrade.Invoke);
         }
     }
 }

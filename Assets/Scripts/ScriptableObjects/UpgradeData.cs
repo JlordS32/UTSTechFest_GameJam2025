@@ -10,6 +10,7 @@ public class UpgradeData : ScriptableObject
     {
         public string UpgradeName;
         public UnityEvent OnUpgrade;
+        public string UpgradeRate;
     }
 
     public List<UpgradeEntry> upgrades = new();
