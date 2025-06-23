@@ -21,7 +21,7 @@ public class PlayerData : ScriptableObject
         ATK = 10;
     }
 
-    public void AddEXP(int value)
+    public void AddEXP(float value)
     {
         EXP += value;
         CheckLevelUp();

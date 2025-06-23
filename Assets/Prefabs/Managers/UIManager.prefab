@@ -63,6 +63,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _interval: 3
-  _waterPerTick: 5
-  _sunlightPerTick: 5
-  _seedPerTick: 5
+  _waterPerTick: 2
+  _sunlightPerTick: 2
+  _seedPerTick: 2
+  _waterPerClick: 0.5
+  _seedPerClick: 0.5
+  _tickMultiplier: 1
+  _clickMultiplier: 1

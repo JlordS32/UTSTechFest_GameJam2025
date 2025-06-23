@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 070b411544e66e7459bd97c16a3b45b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2521657498337041299
+    second: spring_farm_tilemap_0
+  - first:
+      213: -160636725352662407
+    second: spring_farm_tilemap_1
+  - first:
+      213: -3036874667658683034
+    second: spring_farm_tilemap_2
+  - first:
+      213: 923625941537393815
+    second: spring_farm_tilemap_3
+  - first:
+      213: 9187253722030000918
+    second: spring_farm_tilemap_4
+  - first:
+      213: -4381392103313078925
+    second: spring_farm_tilemap_5
+  - first:
+      213: 5337740086780183264
+    second: spring_farm_tilemap_6
+  - first:
+      213: 7268337525800107156
+    second: spring_farm_tilemap_7
+  - first:
+      213: 109471845531687899
+    second: spring_farm_tilemap_8
+  - first:
+      213: -4234540159080309270
+    second: spring_farm_tilemap_9
+  - first:
+      213: 6241494184128134163
+    second: spring_farm_tilemap_10
+  - first:
+      213: 6462483726523843298
+    second: spring_farm_tilemap_11
+  - first:
+      213: 4795433523605832994
+    second: spring_farm_tilemap_12
+  - first:
+      213: -1511754698621543910
+    second: spring_farm_tilemap_13
+  - first:
+      213: 7984533488816903680
+    second: spring_farm_tilemap_14
+  - first:
+      213: 6857894089872420804
+    second: spring_farm_tilemap_15
+  - first:
+      213: -2604904965575972334
+    second: spring_farm_tilemap_16
+  - first:
+      213: 8995451253580656447
+    second: spring_farm_tilemap_17
+  - first:
+      213: 6578633272704250164
+    second: spring_farm_tilemap_18
+  - first:
+      213: 6150599857494622079
+    second: spring_farm_tilemap_19
+  - first:
+      213: 2249092004827010392
+    second: spring_farm_tilemap_20
+  - first:
+      213: -8553385254050223265
+    second: spring_farm_tilemap_21
+  - first:
+      213: 1982577931354258212
+    second: spring_farm_tilemap_22
+  - first:
+      213: -237159214066396318
+    second: spring_farm_tilemap_23
+  - first:
+      213: -6450166626666298244
+    second: spring_farm_tilemap_24
+  - first:
+      213: 7122513909975543110
+    second: spring_farm_tilemap_25
+  - first:
+      213: -1230072259416553332
+    second: spring_farm_tilemap_26
+  - first:
+      213: -4109611480052894164
+    second: spring_farm_tilemap_27
+  - first:
+      213: 2457437476129783610
+    second: spring_farm_tilemap_28
+  - first:
+      213: 8718453115484304684
+    second: spring_farm_tilemap_29
+  - first:
+      213: -6007357998338089763
+    second: spring_farm_tilemap_30
+  - first:
+      213: -3784440377535137152
+    second: spring_farm_tilemap_31
+  - first:
+      213: -1390102010698213418
+    second: spring_farm_tilemap_32
+  - first:
+      213: 6557728894067302679
+    second: spring_farm_tilemap_33
+  - first:
+      213: -1181954537039690807
+    second: spring_farm_tilemap_34
+  - first:
+      213: -4976256748246012717
+    second: spring_farm_tilemap_35
+  - first:
+      213: 5308536976856068506
+    second: spring_farm_tilemap_36
+  - first:
+      213: -4732770015185984754
+    second: spring_farm_tilemap_37
+  - first:
+      213: 5442169807174402673
+    second: spring_farm_tilemap_38
+  - first:
+      213: -4389155080025205201
+    second: spring_farm_tilemap_39
+  - first:
+      213: 4686676821260807905
+    second: spring_farm_tilemap_40
+  - first:
+      213: 5375991619344794852
+    second: spring_farm_tilemap_41
+  - first:
+      213: 4052237601607087825
+    second: spring_farm_tilemap_42
+  - first:
+      213: -5378671530089086650
+    second: spring_farm_tilemap_43
+  - first:
+      213: -3832270592946917820
+    second: spring_farm_tilemap_44
+  - first:
+      213: 7084409057750484911
+    second: spring_farm_tilemap_45
+  - first:
+      213: 6528366596549925330
+    second: spring_farm_tilemap_46
+  - first:
+      213: 9069187422274956074
+    second: spring_farm_tilemap_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spring_farm_tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 308
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5499622abef220800000000000000
+      internalID: 2521657498337041299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 309
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97af877dfbd45cdf0800000000000000
+      internalID: -160636725352662407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 307
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d52de649adad5d0800000000000000
+      internalID: -3036874667658683034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 276
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c0ca676e061dc00800000000000000
+      internalID: 923625941537393815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bcbf2859eaf7f70800000000000000
+      internalID: 9187253722030000918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375825c781b2233c0800000000000000
+      internalID: -4381392103313078925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 296
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e245ef0456731a40800000000000000
+      internalID: 5337740086780183264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 293
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cf4fc68725ed460800000000000000
+      internalID: 7268337525800107156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 256
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb92d1401ce48100800000000000000
+      internalID: 109471845531687899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed54ee2924eb35c0800000000000000
+      internalID: -4234540159080309270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 291
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cbf9044ed3e9650800000000000000
+      internalID: 6241494184128134163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e24236a5ba5fa950800000000000000
+      internalID: 6462483726523843298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2258686e16dcc8240800000000000000
+      internalID: 4795433523605832994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 280
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a92297c1b250be0800000000000000
+      internalID: -1511754698621543910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 279
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006542a77e2cece60800000000000000
+      internalID: 7984533488816903680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfa81e07522c2f50800000000000000
+      internalID: 6857894089872420804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 272
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a61353cb489dbd0800000000000000
+      internalID: -2604904965575972334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f6404514346dc70800000000000000
+      internalID: 8995451253580656447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 241
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4313a1f3b100c4b50800000000000000
+      internalID: 6578633272704250164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 209
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ff88dabf15b5550800000000000000
+      internalID: 6150599857494622079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 129
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85592ee1341663f10800000000000000
+      internalID: 2249092004827010392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 208
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba541ed654c4980800000000000000
+      internalID: -8553385254050223265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b36e9df18838b10800000000000000
+      internalID: 1982577931354258212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639c5a83f075bcf0800000000000000
+      internalID: -237159214066396318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74c973a0a76c76a0800000000000000
+      internalID: -6450166626666298244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64deed71aa048d260800000000000000
+      internalID: 7122513909975543110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 161
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c880a691cc7edeee0800000000000000
+      internalID: -1230072259416553332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26749ee12ab7f6c0800000000000000
+      internalID: -4109611480052894164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 145
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb27e4d529a1220800000000000000
+      internalID: 2457437476129783610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f65b8aea2ef870800000000000000
+      internalID: 8718453115484304684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcd4769ab391aca0800000000000000
+      internalID: -6007357998338089763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a7f570787fa7bc0800000000000000
+      internalID: -3784440377535137152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7d6ca169d55bce0800000000000000
+      internalID: -1390102010698213418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71162305fabb10b50800000000000000
+      internalID: 6557728894067302679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3861f5c9ad89fe0800000000000000
+      internalID: -1181954537039690807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 10
+        width: 98
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dce7a15ad8c0fab0800000000000000
+      internalID: -4976256748246012717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91388e2146bba940800000000000000
+      internalID: 5308536976856068506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0328391fb2d15eb0800000000000000
+      internalID: -4732770015185984754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728cf31b98768b40800000000000000
+      internalID: 5442169807174402673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f261ffe95b69613c0800000000000000
+      internalID: -4389155080025205201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeae44ecbb6a0140800000000000000
+      internalID: 4686676821260807905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4068205eb5b9a40800000000000000
+      internalID: 5375991619344794852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6754501a07c3830800000000000000
+      internalID: 4052237601607087825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6418885adbe1b55b0800000000000000
+      internalID: -5378671530089086650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e2930333a01dac0800000000000000
+      internalID: -3832270592946917820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa707c2d080e05260800000000000000
+      internalID: 7084409057750484911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d952eea4da699a50800000000000000
+      internalID: 6528366596549925330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spring_farm_tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba322f8e93cdd70800000000000000
+      internalID: 9069187422274956074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spring_farm_tilemap_0: 2521657498337041299
+      spring_farm_tilemap_1: -160636725352662407
+      spring_farm_tilemap_10: 6241494184128134163
+      spring_farm_tilemap_11: 6462483726523843298
+      spring_farm_tilemap_12: 4795433523605832994
+      spring_farm_tilemap_13: -1511754698621543910
+      spring_farm_tilemap_14: 7984533488816903680
+      spring_farm_tilemap_15: 6857894089872420804
+      spring_farm_tilemap_16: -2604904965575972334
+      spring_farm_tilemap_17: 8995451253580656447
+      spring_farm_tilemap_18: 6578633272704250164
+      spring_farm_tilemap_19: 6150599857494622079
+      spring_farm_tilemap_2: -3036874667658683034
+      spring_farm_tilemap_20: 2249092004827010392
+      spring_farm_tilemap_21: -8553385254050223265
+      spring_farm_tilemap_22: 1982577931354258212
+      spring_farm_tilemap_23: -237159214066396318
+      spring_farm_tilemap_24: -6450166626666298244
+      spring_farm_tilemap_25: 7122513909975543110
+      spring_farm_tilemap_26: -1230072259416553332
+      spring_farm_tilemap_27: -4109611480052894164
+      spring_farm_tilemap_28: 2457437476129783610
+      spring_farm_tilemap_29: 8718453115484304684
+      spring_farm_tilemap_3: 923625941537393815
+      spring_farm_tilemap_30: -6007357998338089763
+      spring_farm_tilemap_31: -3784440377535137152
+      spring_farm_tilemap_32: -1390102010698213418
+      spring_farm_tilemap_33: 6557728894067302679
+      spring_farm_tilemap_34: -1181954537039690807
+      spring_farm_tilemap_35: -4976256748246012717
+      spring_farm_tilemap_36: 5308536976856068506
+      spring_farm_tilemap_37: -4732770015185984754
+      spring_farm_tilemap_38: 5442169807174402673
+      spring_farm_tilemap_39: -4389155080025205201
+      spring_farm_tilemap_4: 9187253722030000918
+      spring_farm_tilemap_40: 4686676821260807905
+      spring_farm_tilemap_41: 5375991619344794852
+      spring_farm_tilemap_42: 4052237601607087825
+      spring_farm_tilemap_43: -5378671530089086650
+      spring_farm_tilemap_44: -3832270592946917820
+      spring_farm_tilemap_45: 7084409057750484911
+      spring_farm_tilemap_46: 6528366596549925330
+      spring_farm_tilemap_47: 9069187422274956074
+      spring_farm_tilemap_5: -4381392103313078925
+      spring_farm_tilemap_6: 5337740086780183264
+      spring_farm_tilemap_7: 7268337525800107156
+      spring_farm_tilemap_8: 109471845531687899
+      spring_farm_tilemap_9: -4234540159080309270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -22,10 +22,31 @@ public class UIManager : MonoBehaviour
             return;
         }
 
-        AddUpgrade("Water Upgrade", () =>
+        AddUpgrade("Water Generation", () =>
         {
             _currencyManager.IncreaseWaterRate();
-        });
+            _upgradePanel?.Refresh();
+        }, $"{_currencyManager.GetWaterPerTick()}/s");
+
+        AddUpgrade("Seed Generation", () =>
+        {
+            _currencyManager.IncreaseSeedRate();
+        }, $"{_currencyManager.GetSeedPerTick()}/s");
+
+        AddUpgrade("Crop Click Rate", () =>
+        {
+            _currencyManager.IncreaseSeedPerClick();
+        }, $"{_currencyManager.GetSeedPerClick()}/click");
+
+        AddUpgrade("Well Click Rate", () =>
+        {
+            _currencyManager.IncreaseWaterPerClick();
+        }, $"{_currencyManager.GetWaterPerClick()}/click");
+
+        AddUpgrade("Consumption Rate", () =>
+        {
+            _currencyManager.IncreaseConsumptionRate();
+        }, $"{_currencyManager.GetConsumptionRate()}/s");
     }
 
     void Start()
@@ -34,31 +55,32 @@ public class UIManager : MonoBehaviour
         _upgradePanel?.Refresh();
     }
 
-    public void AddUpgrade(string name, UnityAction action)
+    public void AddUpgrade(string name, UnityAction action, string rateName)
     {
         var entry = new UpgradeData.UpgradeEntry
         {
             UpgradeName = name,
-            OnUpgrade = new UnityEvent()
+            OnUpgrade = new UnityEvent(),
+            UpgradeRate = rateName
         };
 
         entry.OnUpgrade.AddListener(action);
         _myUpgradeData.upgrades.Add(entry);
     }
 
-    public void UpdateWaterText(int value)
+    public void UpdateWaterText(float value)
     {
-        _waterTextUI.text = $"Water: {value}";
+        _waterTextUI.text = $"Water: {value:F2}";
     }
 
-    public void UpdateSunlightText(int value)
+    public void UpdateSunlightText(float value)
     {
-        _sunlightTextUI.text = $"Sunlight: {value}";
+        _sunlightTextUI.text = $"Sunlight: {value:F2}";
     }
 
-    public void UpdateSeedText(int value)
+    public void UpdateSeedText(float value)
     {
-        _seedTextUI.text = $"Seed: {value}";
+        _seedTextUI.text = $"Seed: {value:F2}";
     }
 
     void OnDestroy()

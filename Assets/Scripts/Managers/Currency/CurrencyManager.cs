@@ -2,103 +2,144 @@ using UnityEngine;
 
 public class CurrencyManager : MonoBehaviour
 {
-    // PROPERTIES
-    [Header("Rate")]
+    [Header("Interval")]
     [SerializeField] float _interval = 3f;
-    [SerializeField] int _waterPerTick = 5;
-    [SerializeField] int _sunlightPerTick = 5;
-    [SerializeField] int _seedPerTick = 5;
 
-    // VARIABLES
-    int _water = 0;
-    int _seed = 0;
-    int _sunlight = 0;
+    [Header("Auto Gen Rate")]
+    [SerializeField] float _waterPerTick = 2f;
+    [SerializeField] float _sunlightPerTick = 2f;
+    [SerializeField] float _seedPerTick = 2f;
+
+    [Header("Clicker Rate")]
+    [SerializeField] float _waterPerClick = 0.5f;
+    [SerializeField] float _seedPerClick = 0.5f;
+    [SerializeField] float _consumptionPerClick = 1f;
+
+    [Header("Multipliers")]
+    [SerializeField] float _tickMultiplier = 1f;
+    [SerializeField] float _clickMultiplier = 1f;
+
+    [Header("Level Up Rate")]
+    [SerializeField] float _waterPerClickUpgrade = 1.5f;
+    [SerializeField] float _waterPerTickUpgrade = 1.5f;
+    [SerializeField] float _seedPerClickUpgrade = 1.2f;
+    [SerializeField] float _seedPerTickUpgrade = 1.2f;
+    [SerializeField] float _consumptionRateUpgrade = 1.2f;
+
+
+    float _water = 0;
+    float _seed = 0;
+    float _sunlight = 0;
     float _timer;
 
-    // REFERENCES
     UIManager _uiManager;
 
-    #region UNITY_FUNCTIONS
     void Awake()
     {
         _uiManager = FindFirstObjectByType<UIManager>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         _timer += Time.deltaTime;
 
         if (_timer >= _interval)
         {
-            IncreaseRate();
-            UpdateRateText();
-            _timer = 0f;    // Reset Timer
+            _timer = 0f;
+            IncrementCurrency();
+            UpdateCurrencyText();
         }
     }
-    #endregion
 
-
-    #region CLASS_METHODS
-    void IncreaseRate()
+    void IncrementCurrency()
     {
-        _water += _waterPerTick;
-        _sunlight += _sunlightPerTick;
-        _seed += _seedPerTick;
+        _water += _waterPerTick * _tickMultiplier;
+        _sunlight += _sunlightPerTick * _tickMultiplier;
+        _seed += _seedPerTick * _tickMultiplier;
     }
 
-    void UpdateRateText()
+    void UpdateCurrencyText()
     {
         _uiManager.UpdateWaterText(_water);
         _uiManager.UpdateSunlightText(_sunlight);
         _uiManager.UpdateSeedText(_seed);
     }
 
-    #endregion
+    // SUNLIGHT
+    public float GetSunlight() => _sunlight;
+    public float GetSunLightPerTick() => _sunlightPerTick;
+    public void SpendSunlight(float amount)
+    {
+        if (_sunlight >= amount)
+            _sunlight -= amount;
+    }
 
-    #region GETTERS/SETTERS
-    public int GetWater() => _water;
+
+    // WATER
+    public float GetWater() => _water;
+    public float GetWaterPerTick() => _waterPerTick;
     public void GetWaterFromWell()
     {
-        _water += 100;
+        _water += _waterPerClick * _clickMultiplier;
         _uiManager.UpdateWaterText(_water);
     }
 
-    public int GetWaterPerTick() => _waterPerTick;
+    public float GetWaterPerClick() => _waterPerClick;
     public void IncreaseWaterRate()
     {
-        _waterPerTick *= 2;
+        _waterPerTick *= _waterPerTickUpgrade;
     }
 
-    public void SpendWater(int amount)
+    public void IncreaseWaterPerClick()
     {
-        if (_water >= amount)
-        {
-            _water -= amount;
-        }
+        _waterPerClick *= _waterPerClickUpgrade;
     }
 
-    public int GetSunlight() => _sunlight;
-    public void SpendSunlight(int amount)
+    public bool SpendWater()
     {
-        if (_sunlight >= amount)
+        if (_water >= _consumptionPerClick)
         {
-            _sunlight -= amount;
+            _water -= _consumptionPerClick;
+            _uiManager.UpdateWaterText(_water);
+            return true;
         }
+        return false;
     }
 
-    public int GetSeed() => _seed;
+    // SEED
+    public float GetSeed() => _seed;
     public void GetSeedFromCrop()
     {
-        _seed += 100;
+        _seed += _seedPerClick * _clickMultiplier;
         _uiManager.UpdateSeedText(_seed);
     }
-    public void SpendSeed(int amount)
+
+    public float GetSeedPerTick() => _seedPerTick;
+    public void IncreaseSeedRate()
     {
-        if (_seed >= amount)
-        {
-            _seed -= amount;
-        }
+        _seedPerTick *= _seedPerTickUpgrade;
     }
-    #endregion
+
+    public float GetSeedPerClick() => _seedPerClick;
+    public void IncreaseSeedPerClick()
+    {
+        _seedPerClick *= _seedPerClickUpgrade;
+    }
+
+    public bool SpendSeed()
+    {
+        if (_seed >= _consumptionPerClick)
+        {
+            _seed -= _consumptionPerClick;
+            _uiManager.UpdateSeedText(_seed);
+            return true;
+        }
+        return false;
+    }
+
+    public float GetConsumptionRate() => _consumptionPerClick;
+    public void IncreaseConsumptionRate()
+    {
+        _consumptionPerClick *= _consumptionRateUpgrade;
+    }
 }
