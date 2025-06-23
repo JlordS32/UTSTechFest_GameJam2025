@@ -1,11 +1,12 @@
+using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.Events;
+using System;
 
 public class UIManager : MonoBehaviour
 {
     [Header("Sidebar UI")]
-    [SerializeField] UpgradeData _myUpgradeData;
     [SerializeField] UpgradePanelUI _upgradePanel;
 
     [Header("Currency UI")]
@@ -13,60 +14,46 @@ public class UIManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI _sunlightTextUI;
     [SerializeField] TextMeshProUGUI _seedTextUI;
 
-    void InitialUpgrades()
-    {
-        CurrencyManager _currencyManager = GetComponent<CurrencyManager>();
-        if (_currencyManager == null)
-        {
-            Debug.LogError("CurrencyManager is missing on UIManager GameObject!");
-            return;
-        }
-
-        AddUpgrade("Water Generation", () =>
-        {
-            _currencyManager.IncreaseWaterRate();
-            _upgradePanel?.Refresh();
-        }, $"{_currencyManager.GetWaterPerTick()}/s");
-
-        AddUpgrade("Seed Generation", () =>
-        {
-            _currencyManager.IncreaseSeedRate();
-        }, $"{_currencyManager.GetSeedPerTick()}/s");
-
-        AddUpgrade("Crop Click Rate", () =>
-        {
-            _currencyManager.IncreaseSeedPerClick();
-        }, $"{_currencyManager.GetSeedPerClick()}/click");
-
-        AddUpgrade("Well Click Rate", () =>
-        {
-            _currencyManager.IncreaseWaterPerClick();
-        }, $"{_currencyManager.GetWaterPerClick()}/click");
-
-        AddUpgrade("Consumption Rate", () =>
-        {
-            _currencyManager.IncreaseConsumptionRate();
-        }, $"{_currencyManager.GetConsumptionRate()}/s");
-    }
+    List<UpgradeEntry> _entries = new();
 
     void Start()
     {
-        InitialUpgrades();
-        _upgradePanel?.Refresh();
+        var currency = GetComponent<CurrencyManager>();
+
+        AddUpgrade("Water Generation",
+            () => currency.IncreaseWaterRate(),
+            () => $"{currency.GetWaterPerTick():F1}/s");
+
+        AddUpgrade("Seed Generation",
+            () => currency.IncreaseSeedRate(),
+            () => $"{currency.GetSeedPerTick():F1}/s");
+
+        AddUpgrade("Crop Click Rate",
+            () => currency.IncreaseSeedPerClick(),
+            () => $"{currency.GetSeedPerClick():F1}/click");
+
+        AddUpgrade("Well Click Rate",
+            () => currency.IncreaseWaterPerClick(),
+            () => $"{currency.GetWaterPerClick():F1}/click");
+
+        AddUpgrade("Consumption Rate",
+            () => currency.IncreaseConsumptionRate(),
+            () => $"{currency.GetConsumptionRate():F1}/s");
+
+        _upgradePanel.Build(_entries);
     }
 
-    public void AddUpgrade(string name, UnityAction action, string rateName)
+
+    void AddUpgrade(string name, UnityAction logic, Func<string> getRate)
     {
-        var entry = new UpgradeData.UpgradeEntry
+        _entries.Add(new UpgradeEntry
         {
-            UpgradeName = name,
-            OnUpgrade = new UnityEvent(),
-            UpgradeRate = rateName
-        };
-
-        entry.OnUpgrade.AddListener(action);
-        _myUpgradeData.upgrades.Add(entry);
+            Name = name,
+            UpgradeLogic = logic,
+            GetRate = getRate
+        });
     }
+
 
     public void UpdateWaterText(float value)
     {
@@ -81,10 +68,5 @@ public class UIManager : MonoBehaviour
     public void UpdateSeedText(float value)
     {
         _seedTextUI.text = $"Seed: {value:F2}";
-    }
-
-    void OnDestroy()
-    {
-        _myUpgradeData.ResetData();
     }
 }

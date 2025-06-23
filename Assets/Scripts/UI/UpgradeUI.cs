@@ -8,7 +8,7 @@ public class UpgradeUI : MonoBehaviour
     TextMeshProUGUI _rateText;
     Button _upgradeButton;
 
-    public void Setup(string upgradeName, string rateText, UnityEngine.Events.UnityAction onClick)
+    public void Setup(string upgradeName, UnityEngine.Events.UnityAction onClick)
     {
         if (_upgradeNameText == null || _rateText == null || _upgradeButton == null)
         {
@@ -23,8 +23,13 @@ public class UpgradeUI : MonoBehaviour
         }
 
         _upgradeNameText.text = upgradeName;
-        _rateText.text = rateText;
         _upgradeButton.onClick.RemoveAllListeners();
         _upgradeButton.onClick.AddListener(onClick);
     }
+
+    public void SetRate(string rateText)
+    {
+        _rateText.text = rateText;
+    }
+
 }
