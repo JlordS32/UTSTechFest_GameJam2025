@@ -22,35 +22,46 @@ public class UIManager : MonoBehaviour
 
         AddUpgrade("Water Generation",
             () => currency.IncreaseWaterRate(),
-            () => $"{currency.GetWaterPerTick():F1}/s");
+            () => $"{NumberFormatter.Format(currency.GetWaterPerTick())}/s",
+            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterRateLevel()))} suns",
+            () => $"Level: {currency.GetWaterRateLevel()}");
 
         AddUpgrade("Seed Generation",
             () => currency.IncreaseSeedRate(),
-            () => $"{currency.GetSeedPerTick():F1}/s");
+            () => $"{NumberFormatter.Format(currency.GetSeedPerTick())}/s",
+            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedRateLevel()))} suns",
+            () => $"Level: {currency.GetSeedRateLevel()}");
 
         AddUpgrade("Crop Click Rate",
             () => currency.IncreaseSeedPerClick(),
-            () => $"{currency.GetSeedPerClick():F1}/click");
+            () => $"{NumberFormatter.Format(currency.GetSeedPerClick())}/click",
+            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedClickLevel()))} suns",
+            () => $"Level: {currency.GetSeedClickLevel()}");
 
         AddUpgrade("Well Click Rate",
             () => currency.IncreaseWaterPerClick(),
-            () => $"{currency.GetWaterPerClick():F1}/click");
+            () => $"{NumberFormatter.Format(currency.GetWaterPerClick())}/click",
+            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterClickLevel()))} suns",
+            () => $"Level: {currency.GetWaterClickLevel()}");
 
         AddUpgrade("Consumption Rate",
             () => currency.IncreaseConsumptionRate(),
-            () => $"{currency.GetConsumptionRate():F1}/s");
+            () => $"{NumberFormatter.Format(currency.GetConsumptionRate())}/s",
+            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetConsumptionRateLevel()))} suns",
+            () => $"Level: {currency.GetConsumptionRateLevel()}");
 
         _upgradePanel.Build(_entries);
     }
 
-
-    void AddUpgrade(string name, UnityAction logic, Func<string> getRate)
+    void AddUpgrade(string name, UnityAction logic, Func<string> getRate, Func<string> getButtonLabel, Func<string> getLevel)
     {
         _entries.Add(new UpgradeEntry
         {
             Name = name,
             UpgradeLogic = logic,
-            GetRate = getRate
+            GetRate = getRate,
+            GetButtonLabel = getButtonLabel,
+            GetLevel = getLevel
         });
     }
 

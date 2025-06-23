@@ -26,6 +26,9 @@ public class CurrencyManager : MonoBehaviour
     [SerializeField] float _seedPerTickUpgrade = 1.2f;
     [SerializeField] float _consumptionRateUpgrade = 1.2f;
 
+    [Header("Upgrade Costs")]
+    [SerializeField] float _baseCost = 2f;
+    [SerializeField] float _multiplier = 1.5f;
 
     float _water = 0;
     float _seed = 0;
@@ -85,6 +88,7 @@ public class CurrencyManager : MonoBehaviour
     // WATER
     public float GetWater() => _water;
     public float GetWaterPerTick() => _waterPerTick;
+    public int GetWaterRateLevel() => _waterRateLevel;
     public void GetWaterFromWell()
     {
         _water += _waterPerClick * _clickMultiplier;
@@ -92,6 +96,7 @@ public class CurrencyManager : MonoBehaviour
     }
 
     public float GetWaterPerClick() => _waterPerClick;
+    public int GetWaterClickLevel() => _waterClickLevel;
     public void IncreaseWaterRate()
     {
         float cost = GetSunlightUpgradeCost(_waterRateLevel);
@@ -136,6 +141,7 @@ public class CurrencyManager : MonoBehaviour
     }
 
     public float GetSeedPerTick() => _seedPerTick;
+    public int GetSeedRateLevel() => _seedRateLevel;
     public void IncreaseSeedRate()
     {
         float cost = GetSunlightUpgradeCost(_seedRateLevel);
@@ -150,6 +156,7 @@ public class CurrencyManager : MonoBehaviour
 
 
     public float GetSeedPerClick() => _seedPerClick;
+    public int GetSeedClickLevel() => _seedClickLevel;
     public void IncreaseSeedPerClick()
     {
         float cost = GetSunlightUpgradeCost(_seedClickLevel);
@@ -174,6 +181,7 @@ public class CurrencyManager : MonoBehaviour
     }
 
     public float GetConsumptionRate() => _consumptionPerClick;
+    public int GetConsumptionRateLevel() => _consumptionLevel;
     public void IncreaseConsumptionRate()
     {
         float cost = GetSunlightUpgradeCost(_consumptionLevel);
@@ -186,8 +194,8 @@ public class CurrencyManager : MonoBehaviour
         }
     }
 
-    float GetSunlightUpgradeCost(int level, float baseCost = 1f, float multiplier = 1.5f)
+    public float GetSunlightUpgradeCost(int level)
     {
-        return Mathf.Round(baseCost * Mathf.Pow(multiplier, level));
+        return Mathf.Round(_baseCost * Mathf.Pow(_multiplier, level));
     }
 }

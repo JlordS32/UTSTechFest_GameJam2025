@@ -7,6 +7,7 @@ public class UpgradePanelUI : MonoBehaviour
 
     public void Build(List<UpgradeEntry> entries)
     {
+        // Clean up parent folder first
         foreach (Transform child in transform)
             Destroy(child.gameObject);
 
@@ -16,13 +17,16 @@ public class UpgradePanelUI : MonoBehaviour
             var ui = go.GetComponent<UpgradeUI>();
             entry.UIRef = ui;
 
-            ui.Setup(entry.Name, () =>
-            {
-                entry.UpgradeLogic.Invoke();
-                ui.SetRate(entry.GetRate.Invoke());
-            });
-
-            ui.SetRate(entry.GetRate.Invoke());
+            ui.Setup(
+                entry.Name,
+                entry.GetRate,
+                entry.GetButtonLabel,
+                entry.GetLevel,
+                () =>
+                {
+                    entry.UpgradeLogic.Invoke();
+                });
         }
     }
+
 }

@@ -6032,8 +6032,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8203316594294222967, guid: 911602d9b8cd8fa4c90c11bef11b9d76, type: 3}
-      propertyPath: _interval
-      value: 1
+      propertyPath: _seedPerTick
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8203316594294222967, guid: 911602d9b8cd8fa4c90c11bef11b9d76, type: 3}
+      propertyPath: _seedPerClick
+      value: 0.125
+      objectReference: {fileID: 0}
+    - target: {fileID: 8203316594294222967, guid: 911602d9b8cd8fa4c90c11bef11b9d76, type: 3}
+      propertyPath: _waterPerTick
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8203316594294222967, guid: 911602d9b8cd8fa4c90c11bef11b9d76, type: 3}
+      propertyPath: _waterPerClick
+      value: 0.125
+      objectReference: {fileID: 0}
+    - target: {fileID: 8203316594294222967, guid: 911602d9b8cd8fa4c90c11bef11b9d76, type: 3}
+      propertyPath: _sunlightPerTick
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -3,7 +3,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "PlayerData", menuName = "Game/PlayerData")]
 public class PlayerData : ScriptableObject
 {
-    static readonly float EXP_LEVEL_UP_RATE = (1 + Mathf.Sqrt(5)) / 5;
+    static readonly float EXP_LEVEL_UP_RATE = 2.5f;
     static readonly int ATK_LEVEL_UP_RATE = 2;
     static readonly int HP_LEVEL_UP_RATE = 5;
     static readonly float BASE_EXP = 10;
