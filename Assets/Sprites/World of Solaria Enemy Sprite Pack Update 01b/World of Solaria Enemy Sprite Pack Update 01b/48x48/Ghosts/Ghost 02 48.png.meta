@@ -1,91 +1,79 @@
 fileFormatVersion: 2
-guid: ed0ae618cefab2c47a4f870066151e73
+guid: b89ab37b7cccd11488a98afcef26a513
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7515056625500712941
-    second: Canvas original_0
+      213: 4815088684077759022
+    second: Ghost 02 48_0
   - first:
-      213: -7255932911056478781
-    second: Canvas original_1
+      213: 7340716786112086930
+    second: Ghost 02 48_1
   - first:
-      213: -6496226833450432901
-    second: Canvas original_2
+      213: 1894113580424432916
+    second: Ghost 02 48_2
   - first:
-      213: 1096077321126170636
-    second: Canvas original_3
+      213: 5026370430789186835
+    second: Ghost 02 48_3
   - first:
-      213: -875646875119147408
-    second: Canvas original_4
+      213: 5805006566457088893
+    second: Ghost 02 48_4
   - first:
-      213: 5830873433216650949
-    second: Canvas original_5
+      213: 8718225839284130071
+    second: Ghost 02 48_5
   - first:
-      213: -364981741142094124
-    second: Canvas original_6
+      213: -5667206137871400441
+    second: Ghost 02 48_6
   - first:
-      213: -4656052129856097734
-    second: Canvas original_7
+      213: 5806533252013077466
+    second: Ghost 02 48_7
   - first:
-      213: -1320449530481091711
-    second: Canvas original_8
+      213: -7167047767044865662
+    second: Ghost 02 48_8
   - first:
-      213: 3579538408019212722
-    second: Canvas original_9
+      213: -2074650900175510375
+    second: Ghost 02 48_9
   - first:
-      213: 1934122226187058505
-    second: Canvas original_10
+      213: 6591644261831663090
+    second: Ghost 02 48_10
   - first:
-      213: 8935303778945178867
-    second: Canvas original_11
+      213: -3461059532290158191
+    second: Ghost 02 48_11
   - first:
-      213: -4483862533580660431
-    second: Canvas original_12
+      213: 3823646903947530703
+    second: Ghost 02 48_12
   - first:
-      213: -1730647987626620517
-    second: Canvas original_13
+      213: 6614101049003123712
+    second: Ghost 02 48_13
   - first:
-      213: 4568603393425982925
-    second: Canvas original_14
+      213: 126431986453142830
+    second: Ghost 02 48_14
   - first:
-      213: -3448756000103553664
-    second: Canvas original_15
+      213: 3082931372888884679
+    second: Ghost 02 48_15
   - first:
-      213: -4240182103793153876
-    second: Canvas original_16
+      213: -2668108352298559248
+    second: Ghost 02 48_16
   - first:
-      213: -3462974492617052321
-    second: Canvas original_17
+      213: -3446059596415997665
+    second: Ghost 02 48_17
   - first:
-      213: 4471200485122889972
-    second: Canvas original_18
+      213: 4486749339841520968
+    second: Ghost 02 48_18
   - first:
-      213: 2173753080155529812
-    second: Canvas original_19
+      213: 4529439691247110226
+    second: Ghost 02 48_19
   - first:
-      213: 521936306953563821
-    second: Canvas original_20
+      213: 1013286198230456406
+    second: Ghost 02 48_20
   - first:
-      213: -5950896758417026616
-    second: Canvas original_21
+      213: -7454555366620763220
+    second: Ghost 02 48_21
   - first:
-      213: 6751055706365501771
-    second: Canvas original_22
+      213: 4760824709760756539
+    second: Ghost 02 48_22
   - first:
-      213: 527469729525496260
-    second: Canvas original_23
-  - first:
-      213: -6680564664018661617
-    second: Canvas original_24
-  - first:
-      213: -8301701084513573569
-    second: Canvas original_25
-  - first:
-      213: -7744113598098909570
-    second: Canvas original_26
-  - first:
-      213: -4284359538142904003
-    second: Canvas original_27
+      213: -910348161423241840
+    second: Ghost 02 48_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -194,13 +182,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Canvas original_0
+      name: Ghost 02 48_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 245
-        width: 19
-        height: 31
+        x: 5
+        y: 149
+        width: 41
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 310951ac0d725b790800000000000000
-      internalID: -7515056625500712941
+      spriteID: e2a357095a1a2d240800000000000000
+      internalID: 4815088684077759022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_1
+      name: Ghost 02 48_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 245
-        width: 25
-        height: 33
+        x: 53
+        y: 149
+        width: 41
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3cd9962067fbd4b90800000000000000
-      internalID: -7255932911056478781
+      spriteID: 29345f036077fd560800000000000000
+      internalID: 7340716786112086930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_2
+      name: Ghost 02 48_2
       rect:
         serializedVersion: 2
-        x: 91
-        y: 246
-        width: 29
-        height: 30
+        x: 101
+        y: 146
+        width: 41
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,20 +241,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7683db0d14c8d5a0800000000000000
-      internalID: -6496226833450432901
+      spriteID: 41d0175144e394a10800000000000000
+      internalID: 1894113580424432916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_3
+      name: Ghost 02 48_3
       rect:
         serializedVersion: 2
-        x: 126
-        y: 246
-        width: 25
-        height: 30
+        x: 149
+        y: 146
+        width: 41
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c00561c248c063f00800000000000000
-      internalID: 1096077321126170636
+      spriteID: 31577b4a64141c540800000000000000
+      internalID: 5026370430789186835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_4
+      name: Ghost 02 48_4
       rect:
         serializedVersion: 2
-        x: 161
-        y: 247
-        width: 20
-        height: 28
+        x: 197
+        y: 149
+        width: 41
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,20 +285,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 076a7d37ec319d3f0800000000000000
-      internalID: -875646875119147408
+      spriteID: d7b1c7847b68f8050800000000000000
+      internalID: 5805006566457088893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_5
+      name: Ghost 02 48_5
       rect:
         serializedVersion: 2
-        x: 24
-        y: 191
-        width: 23
-        height: 31
+        x: 245
+        y: 149
+        width: 41
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ce04258e7c6be050800000000000000
-      internalID: 5830873433216650949
+      spriteID: 711992ea53c5df870800000000000000
+      internalID: 8718225839284130071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_6
+      name: Ghost 02 48_6
       rect:
         serializedVersion: 2
-        x: 63
-        y: 191
-        width: 15
-        height: 32
+        x: 5
+        y: 101
+        width: 38
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,20 +329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4dec8b94a035feaf0800000000000000
-      internalID: -364981741142094124
+      spriteID: 70203433b0a0a51b0800000000000000
+      internalID: -5667206137871400441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_7
+      name: Ghost 02 48_7
       rect:
         serializedVersion: 2
-        x: 94
-        y: 191
-        width: 21
-        height: 31
+        x: 53
+        y: 101
+        width: 38
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,262 +351,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a32f938b141626fb0800000000000000
-      internalID: -4656052129856097734
+      spriteID: ad3bbb67a33f49050800000000000000
+      internalID: 5806533252013077466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_8
+      name: Ghost 02 48_8
       rect:
         serializedVersion: 2
-        x: 129
-        y: 191
-        width: 19
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18bd7d7e522dcade0800000000000000
-      internalID: -1320449530481091711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_9
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 191
-        width: 24
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b93ad587331da130800000000000000
-      internalID: 3579538408019212722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_10
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 191
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94d3114dae167da10800000000000000
-      internalID: 1934122226187058505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_11
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fc9b381273900c70800000000000000
-      internalID: 8935303778945178867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_12
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 131ed3048ce16c1c0800000000000000
-      internalID: -4483862533580660431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_13
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b99454a13d08bf7e0800000000000000
-      internalID: -1730647987626620517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_14
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc5ccc0b490f66f30800000000000000
-      internalID: 4568603393425982925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_15
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 085a4d0b0be8320d0800000000000000
-      internalID: -3448756000103553664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_16
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca8c07097d8d725c0800000000000000
-      internalID: -4240182103793153876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_17
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 85
-        width: 11
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5f625deb0b01ffc0800000000000000
-      internalID: -3462974492617052321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_18
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 85
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f8dd4bd625ec0e30800000000000000
-      internalID: 4471200485122889972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_19
-      rect:
-        serializedVersion: 2
-        x: 58
+        x: 101
         y: 98
-        width: 14
-        height: 11
+        width: 38
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,20 +373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 452e41cc8e8ba2e10800000000000000
-      internalID: 2173753080155529812
+      spriteID: 281c80d4708898c90800000000000000
+      internalID: -7167047767044865662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_20
+      name: Ghost 02 48_9
       rect:
         serializedVersion: 2
-        x: 72
-        y: 86
-        width: 16
-        height: 18
+        x: 149
+        y: 98
+        width: 38
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,20 +395,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: daea85b4e4a4e3700800000000000000
-      internalID: 521936306953563821
+      spriteID: 994281e8ffb5533e0800000000000000
+      internalID: -2074650900175510375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_21
+      name: Ghost 02 48_10
       rect:
         serializedVersion: 2
-        x: 91
-        y: 85
-        width: 18
-        height: 13
+        x: 197
+        y: 101
+        width: 38
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,20 +417,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c1978b6dea2a6da0800000000000000
-      internalID: -5950896758417026616
+      spriteID: 2fdd73838893a7b50800000000000000
+      internalID: 6591644261831663090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_22
+      name: Ghost 02 48_11
       rect:
         serializedVersion: 2
-        x: 107
-        y: 91
-        width: 14
-        height: 17
+        x: 245
+        y: 101
+        width: 38
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,20 +439,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b412ac4756190bd50800000000000000
-      internalID: 6751055706365501771
+      spriteID: 1919d5f51b8d7ffc0800000000000000
+      internalID: -3461059532290158191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_23
+      name: Ghost 02 48_12
       rect:
         serializedVersion: 2
-        x: 128
-        y: 84
-        width: 22
-        height: 23
+        x: 5
+        y: 53
+        width: 38
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,20 +461,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c97322ace2f15700800000000000000
-      internalID: 527469729525496260
+      spriteID: fc19050c992501530800000000000000
+      internalID: 3823646903947530703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_24
+      name: Ghost 02 48_13
       rect:
         serializedVersion: 2
-        x: 160
-        y: 94
-        width: 18
-        height: 15
+        x: 53
+        y: 53
+        width: 38
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,20 +483,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0f042e45ddd943a0800000000000000
-      internalID: -6680564664018661617
+      spriteID: 004ae5e6cd10acb50800000000000000
+      internalID: 6614101049003123712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_25
+      name: Ghost 02 48_14
       rect:
         serializedVersion: 2
-        x: 58
-        y: 82
-        width: 15
-        height: 14
+        x: 101
+        y: 50
+        width: 38
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,20 +505,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f35e71219de6acc80800000000000000
-      internalID: -8301701084513573569
+      spriteID: e2d59c8c83d21c100800000000000000
+      internalID: 126431986453142830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_26
+      name: Ghost 02 48_15
       rect:
         serializedVersion: 2
-        x: 159
-        y: 84
-        width: 16
-        height: 10
+        x: 149
+        y: 50
+        width: 38
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,20 +527,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e76da0d66b1678490800000000000000
-      internalID: -7744113598098909570
+      spriteID: 7c503f3efb5c8ca20800000000000000
+      internalID: 3082931372888884679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_27
+      name: Ghost 02 48_16
       rect:
         serializedVersion: 2
-        x: 175
-        y: 83
-        width: 6
-        height: 7
+        x: 197
+        y: 53
+        width: 38
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,8 +549,162 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d318fe613b5ea84c0800000000000000
-      internalID: -4284359538142904003
+      spriteID: 0f8ddfef699f8fad0800000000000000
+      internalID: -2668108352298559248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost 02 48_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 53
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f196cc81e032d20d0800000000000000
+      internalID: -3446059596415997665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost 02 48_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845e875b0c2244e30800000000000000
+      internalID: 4486749339841520968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost 02 48_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258c654b66dcbde30800000000000000
+      internalID: 4529439691247110226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost 02 48_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658155dbd6aef0e00800000000000000
+      internalID: 1013286198230456406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost 02 48_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab6616d3691c8890800000000000000
+      internalID: -7454555366620763220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost 02 48_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b213f79d8d11240800000000000000
+      internalID: 4760824709760756539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost 02 48_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d0070ab2bcd53f0800000000000000
+      internalID: -910348161423241840
       vertices: []
       indices: 
       edges: []
@@ -823,34 +723,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Canvas original_0: -7515056625500712941
-      Canvas original_1: -7255932911056478781
-      Canvas original_10: 1934122226187058505
-      Canvas original_11: 8935303778945178867
-      Canvas original_12: -4483862533580660431
-      Canvas original_13: -1730647987626620517
-      Canvas original_14: 4568603393425982925
-      Canvas original_15: -3448756000103553664
-      Canvas original_16: -4240182103793153876
-      Canvas original_17: -3462974492617052321
-      Canvas original_18: 4471200485122889972
-      Canvas original_19: 2173753080155529812
-      Canvas original_2: -6496226833450432901
-      Canvas original_20: 521936306953563821
-      Canvas original_21: -5950896758417026616
-      Canvas original_22: 6751055706365501771
-      Canvas original_23: 527469729525496260
-      Canvas original_24: -6680564664018661617
-      Canvas original_25: -8301701084513573569
-      Canvas original_26: -7744113598098909570
-      Canvas original_27: -4284359538142904003
-      Canvas original_3: 1096077321126170636
-      Canvas original_4: -875646875119147408
-      Canvas original_5: 5830873433216650949
-      Canvas original_6: -364981741142094124
-      Canvas original_7: -4656052129856097734
-      Canvas original_8: -1320449530481091711
-      Canvas original_9: 3579538408019212722
+      Ghost 02 48_0: 4815088684077759022
+      Ghost 02 48_1: 7340716786112086930
+      Ghost 02 48_10: 6591644261831663090
+      Ghost 02 48_11: -3461059532290158191
+      Ghost 02 48_12: 3823646903947530703
+      Ghost 02 48_13: 6614101049003123712
+      Ghost 02 48_14: 126431986453142830
+      Ghost 02 48_15: 3082931372888884679
+      Ghost 02 48_16: -2668108352298559248
+      Ghost 02 48_17: -3446059596415997665
+      Ghost 02 48_18: 4486749339841520968
+      Ghost 02 48_19: 4529439691247110226
+      Ghost 02 48_2: 1894113580424432916
+      Ghost 02 48_20: 1013286198230456406
+      Ghost 02 48_21: -7454555366620763220
+      Ghost 02 48_22: 4760824709760756539
+      Ghost 02 48_23: -910348161423241840
+      Ghost 02 48_3: 5026370430789186835
+      Ghost 02 48_4: 5805006566457088893
+      Ghost 02 48_5: 8718225839284130071
+      Ghost 02 48_6: -5667206137871400441
+      Ghost 02 48_7: 5806533252013077466
+      Ghost 02 48_8: -7167047767044865662
+      Ghost 02 48_9: -2074650900175510375
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

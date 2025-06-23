@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 7336ee90fc6e9dc4f907237ac94d5753
+guid: ce2a8eaeeedada14a9c76edc24f3a8b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5730420304054655485
-    second: Canvas_0
+      213: -1530214287210993423
+    second: Minecart 01_0
+  - first:
+      213: 8389453626557836961
+    second: Minecart 01_1
+  - first:
+      213: 5791374588462406871
+    second: Minecart 01_2
+  - first:
+      213: -5156971452184904853
+    second: Minecart 01_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Canvas_0
+      name: Minecart 01_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 3000
-        height: 3000
+        x: 63
+        y: 224
+        width: 65
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 306e22338157970b0800000000000000
-      internalID: -5730420304054655485
+      spriteID: 1f8af84963693cae0800000000000000
+      internalID: -1530214287210993423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minecart 01_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 195
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aea796cf935d6470800000000000000
+      internalID: 8389453626557836961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minecart 01_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc968211881f5050800000000000000
+      internalID: 5791374588462406871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minecart 01_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 128
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b30bb79c1ce68b0800000000000000
+      internalID: -5156971452184904853
       vertices: []
       indices: 
       edges: []
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Canvas_0: -5730420304054655485
+      Minecart 01_0: -1530214287210993423
+      Minecart 01_1: 8389453626557836961
+      Minecart 01_2: 5791374588462406871
+      Minecart 01_3: -5156971452184904853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

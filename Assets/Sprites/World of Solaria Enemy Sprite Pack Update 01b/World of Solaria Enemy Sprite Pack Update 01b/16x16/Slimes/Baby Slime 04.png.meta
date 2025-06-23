@@ -1,91 +1,79 @@
 fileFormatVersion: 2
-guid: ed0ae618cefab2c47a4f870066151e73
+guid: ffdbbfa6ccaf8e64d93bdeae4c4b0a89
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7515056625500712941
-    second: Canvas original_0
+      213: -1441131956499383657
+    second: Baby Slime 04_0
   - first:
-      213: -7255932911056478781
-    second: Canvas original_1
+      213: 6416972558360302258
+    second: Baby Slime 04_1
   - first:
-      213: -6496226833450432901
-    second: Canvas original_2
+      213: 3418405300143021085
+    second: Baby Slime 04_2
   - first:
-      213: 1096077321126170636
-    second: Canvas original_3
+      213: 1216001320101177082
+    second: Baby Slime 04_3
   - first:
-      213: -875646875119147408
-    second: Canvas original_4
+      213: -592407369098140226
+    second: Baby Slime 04_4
   - first:
-      213: 5830873433216650949
-    second: Canvas original_5
+      213: 7149732958133972710
+    second: Baby Slime 04_5
   - first:
-      213: -364981741142094124
-    second: Canvas original_6
+      213: 3438783384365152775
+    second: Baby Slime 04_6
   - first:
-      213: -4656052129856097734
-    second: Canvas original_7
+      213: -175221552838219583
+    second: Baby Slime 04_7
   - first:
-      213: -1320449530481091711
-    second: Canvas original_8
+      213: -3465748397670859543
+    second: Baby Slime 04_8
   - first:
-      213: 3579538408019212722
-    second: Canvas original_9
+      213: -2935189441554354814
+    second: Baby Slime 04_9
   - first:
-      213: 1934122226187058505
-    second: Canvas original_10
+      213: -6195561125678716601
+    second: Baby Slime 04_10
   - first:
-      213: 8935303778945178867
-    second: Canvas original_11
+      213: -1055859385334014108
+    second: Baby Slime 04_11
   - first:
-      213: -4483862533580660431
-    second: Canvas original_12
+      213: -293613571710846469
+    second: Baby Slime 04_12
   - first:
-      213: -1730647987626620517
-    second: Canvas original_13
+      213: -4446244879233689226
+    second: Baby Slime 04_13
   - first:
-      213: 4568603393425982925
-    second: Canvas original_14
+      213: 4262983765833112211
+    second: Baby Slime 04_14
   - first:
-      213: -3448756000103553664
-    second: Canvas original_15
+      213: -1573564867927789067
+    second: Baby Slime 04_15
   - first:
-      213: -4240182103793153876
-    second: Canvas original_16
+      213: 5514931336804053458
+    second: Baby Slime 04_16
   - first:
-      213: -3462974492617052321
-    second: Canvas original_17
+      213: -3799325359331726949
+    second: Baby Slime 04_17
   - first:
-      213: 4471200485122889972
-    second: Canvas original_18
+      213: -5732189280780164627
+    second: Baby Slime 04_18
   - first:
-      213: 2173753080155529812
-    second: Canvas original_19
+      213: -4933773416087709669
+    second: Baby Slime 04_19
   - first:
-      213: 521936306953563821
-    second: Canvas original_20
+      213: -3452476044662248441
+    second: Baby Slime 04_20
   - first:
-      213: -5950896758417026616
-    second: Canvas original_21
+      213: 759280020282814873
+    second: Baby Slime 04_21
   - first:
-      213: 6751055706365501771
-    second: Canvas original_22
+      213: 8819306304953316967
+    second: Baby Slime 04_22
   - first:
-      213: 527469729525496260
-    second: Canvas original_23
-  - first:
-      213: -6680564664018661617
-    second: Canvas original_24
-  - first:
-      213: -8301701084513573569
-    second: Canvas original_25
-  - first:
-      213: -7744113598098909570
-    second: Canvas original_26
-  - first:
-      213: -4284359538142904003
-    second: Canvas original_27
+      213: 7940574720046976985
+    second: Baby Slime 04_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -194,584 +182,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Canvas original_0
+      name: Baby Slime 04_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 245
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 310951ac0d725b790800000000000000
-      internalID: -7515056625500712941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_1
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 245
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3cd9962067fbd4b90800000000000000
-      internalID: -7255932911056478781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_2
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 246
-        width: 29
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7683db0d14c8d5a0800000000000000
-      internalID: -6496226833450432901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_3
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 246
-        width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c00561c248c063f00800000000000000
-      internalID: 1096077321126170636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_4
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 247
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 076a7d37ec319d3f0800000000000000
-      internalID: -875646875119147408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_5
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 191
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ce04258e7c6be050800000000000000
-      internalID: 5830873433216650949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_6
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 191
-        width: 15
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dec8b94a035feaf0800000000000000
-      internalID: -364981741142094124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_7
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 191
-        width: 21
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a32f938b141626fb0800000000000000
-      internalID: -4656052129856097734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_8
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 191
-        width: 19
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18bd7d7e522dcade0800000000000000
-      internalID: -1320449530481091711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_9
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 191
-        width: 24
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b93ad587331da130800000000000000
-      internalID: 3579538408019212722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_10
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 191
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94d3114dae167da10800000000000000
-      internalID: 1934122226187058505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_11
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fc9b381273900c70800000000000000
-      internalID: 8935303778945178867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_12
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 131ed3048ce16c1c0800000000000000
-      internalID: -4483862533580660431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_13
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b99454a13d08bf7e0800000000000000
-      internalID: -1730647987626620517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_14
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc5ccc0b490f66f30800000000000000
-      internalID: 4568603393425982925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_15
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 085a4d0b0be8320d0800000000000000
-      internalID: -3448756000103553664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_16
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca8c07097d8d725c0800000000000000
-      internalID: -4240182103793153876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_17
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 85
-        width: 11
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5f625deb0b01ffc0800000000000000
-      internalID: -3462974492617052321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_18
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 85
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f8dd4bd625ec0e30800000000000000
-      internalID: 4471200485122889972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_19
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 98
-        width: 14
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 452e41cc8e8ba2e10800000000000000
-      internalID: 2173753080155529812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_20
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 86
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: daea85b4e4a4e3700800000000000000
-      internalID: 521936306953563821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_21
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 85
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c1978b6dea2a6da0800000000000000
-      internalID: -5950896758417026616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_22
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 91
-        width: 14
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b412ac4756190bd50800000000000000
-      internalID: 6751055706365501771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_23
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 84
-        width: 22
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c97322ace2f15700800000000000000
-      internalID: 527469729525496260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_24
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 94
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0f042e45ddd943a0800000000000000
-      internalID: -6680564664018661617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_25
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 82
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f35e71219de6acc80800000000000000
-      internalID: -8301701084513573569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_26
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 84
-        width: 16
+        x: 2
+        y: 47
+        width: 12
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -781,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e76da0d66b1678490800000000000000
-      internalID: -7744113598098909570
+      spriteID: 79af36afe12100ce0800000000000000
+      internalID: -1441131956499383657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_27
+      name: Baby Slime 04_1
       rect:
         serializedVersion: 2
-        x: 175
-        y: 83
-        width: 6
-        height: 7
+        x: 18
+        y: 47
+        width: 12
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,8 +219,492 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d318fe613b5ea84c0800000000000000
-      internalID: -4284359538142904003
+      spriteID: 2b2de721b8aad0950800000000000000
+      internalID: 6416972558360302258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c565d428d907f20800000000000000
+      internalID: 3418405300143021085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6690b02ca10e010800000000000000
+      internalID: 1216001320101177082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e492f2a857c7f0800000000000000
+      internalID: -592407369098140226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 47
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee6a789e34f83360800000000000000
+      internalID: 7149732958133972710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ab994c44309bf20800000000000000
+      internalID: 3438783384365152775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8e5121dec719df0800000000000000
+      internalID: -175221552838219583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecf2f3d13037efc0800000000000000
+      internalID: -3465748397670859543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28deca311cc1447d0800000000000000
+      internalID: -2935189441554354814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74963bf4bf1f40aa0800000000000000
+      internalID: -6195561125678716601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f5764bb75d851f0800000000000000
+      internalID: -1055859385334014108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f0fc1300ecebf0800000000000000
+      internalID: -293613571710846469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67950ece6d3cb42c0800000000000000
+      internalID: -4446244879233689226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a5db51629292b30800000000000000
+      internalID: 4262983765833112211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f13128f613992ae0800000000000000
+      internalID: -1573564867927789067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d130ead4d8f88c40800000000000000
+      internalID: 5514931336804053458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9926e227b5164bc0800000000000000
+      internalID: -3799325359331726949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1ebc5383c2370b0800000000000000
+      internalID: -5732189280780164627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1893d3e737b78bb0800000000000000
+      internalID: -4933773416087709669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c6c5254575610d0800000000000000
+      internalID: -3452476044662248441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913206d721898a00800000000000000
+      internalID: 759280020282814873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766fa109b58746a70800000000000000
+      internalID: 8819306304953316967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 04_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfc8dc03a6923e60800000000000000
+      internalID: 7940574720046976985
       vertices: []
       indices: 
       edges: []
@@ -823,34 +723,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Canvas original_0: -7515056625500712941
-      Canvas original_1: -7255932911056478781
-      Canvas original_10: 1934122226187058505
-      Canvas original_11: 8935303778945178867
-      Canvas original_12: -4483862533580660431
-      Canvas original_13: -1730647987626620517
-      Canvas original_14: 4568603393425982925
-      Canvas original_15: -3448756000103553664
-      Canvas original_16: -4240182103793153876
-      Canvas original_17: -3462974492617052321
-      Canvas original_18: 4471200485122889972
-      Canvas original_19: 2173753080155529812
-      Canvas original_2: -6496226833450432901
-      Canvas original_20: 521936306953563821
-      Canvas original_21: -5950896758417026616
-      Canvas original_22: 6751055706365501771
-      Canvas original_23: 527469729525496260
-      Canvas original_24: -6680564664018661617
-      Canvas original_25: -8301701084513573569
-      Canvas original_26: -7744113598098909570
-      Canvas original_27: -4284359538142904003
-      Canvas original_3: 1096077321126170636
-      Canvas original_4: -875646875119147408
-      Canvas original_5: 5830873433216650949
-      Canvas original_6: -364981741142094124
-      Canvas original_7: -4656052129856097734
-      Canvas original_8: -1320449530481091711
-      Canvas original_9: 3579538408019212722
+      Baby Slime 04_0: -1441131956499383657
+      Baby Slime 04_1: 6416972558360302258
+      Baby Slime 04_10: -6195561125678716601
+      Baby Slime 04_11: -1055859385334014108
+      Baby Slime 04_12: -293613571710846469
+      Baby Slime 04_13: -4446244879233689226
+      Baby Slime 04_14: 4262983765833112211
+      Baby Slime 04_15: -1573564867927789067
+      Baby Slime 04_16: 5514931336804053458
+      Baby Slime 04_17: -3799325359331726949
+      Baby Slime 04_18: -5732189280780164627
+      Baby Slime 04_19: -4933773416087709669
+      Baby Slime 04_2: 3418405300143021085
+      Baby Slime 04_20: -3452476044662248441
+      Baby Slime 04_21: 759280020282814873
+      Baby Slime 04_22: 8819306304953316967
+      Baby Slime 04_23: 7940574720046976985
+      Baby Slime 04_3: 1216001320101177082
+      Baby Slime 04_4: -592407369098140226
+      Baby Slime 04_5: 7149732958133972710
+      Baby Slime 04_6: 3438783384365152775
+      Baby Slime 04_7: -175221552838219583
+      Baby Slime 04_8: -3465748397670859543
+      Baby Slime 04_9: -2935189441554354814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

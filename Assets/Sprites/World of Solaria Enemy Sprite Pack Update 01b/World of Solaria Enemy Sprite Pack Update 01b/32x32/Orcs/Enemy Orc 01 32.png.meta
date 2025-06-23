@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 102234204d7ebdd428b00caf4413b628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -226721680975735819
+    second: Enemy Orc 01 32_0
+  - first:
+      213: 2356292299574631506
+    second: Enemy Orc 01 32_1
+  - first:
+      213: -6217440960348518817
+    second: Enemy Orc 01 32_2
+  - first:
+      213: -787318950762884882
+    second: Enemy Orc 01 32_3
+  - first:
+      213: -7293436267908154454
+    second: Enemy Orc 01 32_4
+  - first:
+      213: -6252654532064381152
+    second: Enemy Orc 01 32_5
+  - first:
+      213: -1609909737954501903
+    second: Enemy Orc 01 32_6
+  - first:
+      213: -4910961272644568953
+    second: Enemy Orc 01 32_7
+  - first:
+      213: -2513801877188234278
+    second: Enemy Orc 01 32_8
+  - first:
+      213: -3823267424001538054
+    second: Enemy Orc 01 32_9
+  - first:
+      213: -5007615341403556578
+    second: Enemy Orc 01 32_10
+  - first:
+      213: 5685843570590668845
+    second: Enemy Orc 01 32_11
+  - first:
+      213: 8036887642075447860
+    second: Enemy Orc 01 32_12
+  - first:
+      213: 5932364304257910952
+    second: Enemy Orc 01 32_13
+  - first:
+      213: -3365163653141737438
+    second: Enemy Orc 01 32_14
+  - first:
+      213: 8838293662197368908
+    second: Enemy Orc 01 32_15
+  - first:
+      213: -5534853316856251352
+    second: Enemy Orc 01 32_16
+  - first:
+      213: 2216301673692613527
+    second: Enemy Orc 01 32_17
+  - first:
+      213: 7385252756969459977
+    second: Enemy Orc 01 32_18
+  - first:
+      213: -7745647524817986935
+    second: Enemy Orc 01 32_19
+  - first:
+      213: -6515622889296900
+    second: Enemy Orc 01 32_20
+  - first:
+      213: 2065771645704337922
+    second: Enemy Orc 01 32_21
+  - first:
+      213: 2270882103487187026
+    second: Enemy Orc 01 32_22
+  - first:
+      213: 3936882349763790373
+    second: Enemy Orc 01 32_23
+  - first:
+      213: 6122350658418812397
+    second: Enemy Orc 01 32_24
+  - first:
+      213: -5013988958216310329
+    second: Enemy Orc 01 32_25
+  - first:
+      213: 8392772568161125507
+    second: Enemy Orc 01 32_26
+  - first:
+      213: 1871074490826246877
+    second: Enemy Orc 01 32_27
+  - first:
+      213: 6562373331349661451
+    second: Enemy Orc 01 32_28
+  - first:
+      213: 700457568070660475
+    second: Enemy Orc 01 32_29
+  - first:
+      213: -7060643953883602158
+    second: Enemy Orc 01 32_30
+  - first:
+      213: -6057212367603334848
+    second: Enemy Orc 01 32_31
+  - first:
+      213: -5543442432197313159
+    second: Enemy Orc 01 32_32
+  - first:
+      213: 8788298684224114594
+    second: Enemy Orc 01 32_33
+  - first:
+      213: -6148548699754246211
+    second: Enemy Orc 01 32_34
+  - first:
+      213: -7107210084160400879
+    second: Enemy Orc 01 32_35
+  - first:
+      213: 7827842524395736790
+    second: Enemy Orc 01 32_36
+  - first:
+      213: -2163314360887636962
+    second: Enemy Orc 01 32_37
+  - first:
+      213: -2378713472833840242
+    second: Enemy Orc 01 32_38
+  - first:
+      213: -3383802533111257813
+    second: Enemy Orc 01 32_39
+  - first:
+      213: -5712557907796333380
+    second: Enemy Orc 01 32_40
+  - first:
+      213: -4973716216722206242
+    second: Enemy Orc 01 32_41
+  - first:
+      213: -4873077971479300433
+    second: Enemy Orc 01 32_42
+  - first:
+      213: 5642377231578629994
+    second: Enemy Orc 01 32_43
+  - first:
+      213: -7835941213564054996
+    second: Enemy Orc 01 32_44
+  - first:
+      213: 7556587229136829494
+    second: Enemy Orc 01 32_45
+  - first:
+      213: 8579236093883412452
+    second: Enemy Orc 01 32_46
+  - first:
+      213: -847925561816202113
+    second: Enemy Orc 01 32_47
+  - first:
+      213: -1645217965023245863
+    second: Enemy Orc 01 32_48
+  - first:
+      213: 7104159774349618014
+    second: Enemy Orc 01 32_49
+  - first:
+      213: -32763250719550982
+    second: Enemy Orc 01 32_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3df8615d58adcf0800000000000000
+      internalID: -226721680975735819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 457
+        width: 130
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c522fbc5b33b020800000000000000
+      internalID: 2356292299574631506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 479
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568672536637b9a0800000000000000
+      internalID: -6217440960348518817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 447
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee058dee591e215f0800000000000000
+      internalID: -787318950762884882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 447
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab326b4b5288ca90800000000000000
+      internalID: -7293436267908154454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 447
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f011c4db1a39a0800000000000000
+      internalID: -6252654532064381152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 447
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa97cc7f9378a9e0800000000000000
+      internalID: -1609909737954501903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 447
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788f15eedb2c8dbb0800000000000000
+      internalID: -4910961272644568953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 447
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad33c7ae28e2d1dd0800000000000000
+      internalID: -2513801877188234278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 415
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7c01fc88601fac0800000000000000
+      internalID: -3823267424001538054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 415
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1538d3e060618ab0800000000000000
+      internalID: -5007615341403556578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 415
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28de714a9c28ee40800000000000000
+      internalID: 5685843570590668845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 415
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43242adaab2c88f60800000000000000
+      internalID: 8036887642075447860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 409
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8008957edf35250800000000000000
+      internalID: 5932364304257910952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 407
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2205e63ac798c41d0800000000000000
+      internalID: -3365163653141737438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 407
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484cdb224de7aa70800000000000000
+      internalID: 8838293662197368908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 409
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cf3e4bb304033b0800000000000000
+      internalID: -5534853316856251352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 415
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b4d8731a2e1ce10800000000000000
+      internalID: 2216301673692613527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 415
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90193a3f040bd7660800000000000000
+      internalID: 7385252756969459977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a17d74d9ee18490800000000000000
+      internalID: -7745647524817986935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 383
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb6134531ad8eff0800000000000000
+      internalID: -6515622889296900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af749ed581bac10800000000000000
+      internalID: 2065771645704337922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 345
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2584521dd3bc38f10800000000000000
+      internalID: 2270882103487187026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 343
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5260d2c73ad92a630800000000000000
+      internalID: 3936882349763790373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 343
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ae697c75f6f450800000000000000
+      internalID: 6122350658418812397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 345
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c139c59b9bba6ab0800000000000000
+      internalID: -5013988958216310329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38403e51f2e197470800000000000000
+      internalID: 8392772568161125507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 319
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda4ef5065467f910800000000000000
+      internalID: 1871074490826246877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 319
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07e792a6cb321b50800000000000000
+      internalID: 6562373331349661451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 319
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71f51d627688b900800000000000000
+      internalID: 700457568070660475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 287
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213224b9bbd830e90800000000000000
+      internalID: -7060643953883602158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 287
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04186e3b17570fba0800000000000000
+      internalID: -6057212367603334848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 287
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3d047a7cb113b0800000000000000
+      internalID: -5543442432197313159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 287
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af0635471f46f970800000000000000
+      internalID: 8788298684224114594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 275
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf45f2b887fbaaa0800000000000000
+      internalID: -6148548699754246211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129b85851e1e5d90800000000000000
+      internalID: -7107210084160400879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de0e406d4512ac60800000000000000
+      internalID: 7827842524395736790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c8acdec0d5af1e0800000000000000
+      internalID: -2163314360887636962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b9d4d03bc1dfed0800000000000000
+      internalID: -2378713472833840242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2526d736815a01d0800000000000000
+      internalID: -3383802533111257813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc63fa69dae8b0b0800000000000000
+      internalID: -5712557907796333380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed15ca8e37fc9fab0800000000000000
+      internalID: -4973716216722206242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_42
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6f13357695f5cb0800000000000000
+      internalID: -4873077971479300433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a670ff09230cd4e40800000000000000
+      internalID: 5642377231578629994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22dbac9bf4214390800000000000000
+      internalID: -7835941213564054996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c34f26c046ed860800000000000000
+      internalID: 7556587229136829494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 63
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef612cc5c19f0770800000000000000
+      internalID: 8579236093883412452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74c8fba1309b34f0800000000000000
+      internalID: -847925561816202113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 31
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c2b04af20b29e0800000000000000
+      internalID: -1645217965023245863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6ab1ecab079260800000000000000
+      internalID: 7104159774349618014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Orc 01 32_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af19c2f3ff99b8ff0800000000000000
+      internalID: -32763250719550982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy Orc 01 32_0: -226721680975735819
+      Enemy Orc 01 32_1: 2356292299574631506
+      Enemy Orc 01 32_10: -5007615341403556578
+      Enemy Orc 01 32_11: 5685843570590668845
+      Enemy Orc 01 32_12: 8036887642075447860
+      Enemy Orc 01 32_13: 5932364304257910952
+      Enemy Orc 01 32_14: -3365163653141737438
+      Enemy Orc 01 32_15: 8838293662197368908
+      Enemy Orc 01 32_16: -5534853316856251352
+      Enemy Orc 01 32_17: 2216301673692613527
+      Enemy Orc 01 32_18: 7385252756969459977
+      Enemy Orc 01 32_19: -7745647524817986935
+      Enemy Orc 01 32_2: -6217440960348518817
+      Enemy Orc 01 32_20: -6515622889296900
+      Enemy Orc 01 32_21: 2065771645704337922
+      Enemy Orc 01 32_22: 2270882103487187026
+      Enemy Orc 01 32_23: 3936882349763790373
+      Enemy Orc 01 32_24: 6122350658418812397
+      Enemy Orc 01 32_25: -5013988958216310329
+      Enemy Orc 01 32_26: 8392772568161125507
+      Enemy Orc 01 32_27: 1871074490826246877
+      Enemy Orc 01 32_28: 6562373331349661451
+      Enemy Orc 01 32_29: 700457568070660475
+      Enemy Orc 01 32_3: -787318950762884882
+      Enemy Orc 01 32_30: -7060643953883602158
+      Enemy Orc 01 32_31: -6057212367603334848
+      Enemy Orc 01 32_32: -5543442432197313159
+      Enemy Orc 01 32_33: 8788298684224114594
+      Enemy Orc 01 32_34: -6148548699754246211
+      Enemy Orc 01 32_35: -7107210084160400879
+      Enemy Orc 01 32_36: 7827842524395736790
+      Enemy Orc 01 32_37: -2163314360887636962
+      Enemy Orc 01 32_38: -2378713472833840242
+      Enemy Orc 01 32_39: -3383802533111257813
+      Enemy Orc 01 32_4: -7293436267908154454
+      Enemy Orc 01 32_40: -5712557907796333380
+      Enemy Orc 01 32_41: -4973716216722206242
+      Enemy Orc 01 32_42: -4873077971479300433
+      Enemy Orc 01 32_43: 5642377231578629994
+      Enemy Orc 01 32_44: -7835941213564054996
+      Enemy Orc 01 32_45: 7556587229136829494
+      Enemy Orc 01 32_46: 8579236093883412452
+      Enemy Orc 01 32_47: -847925561816202113
+      Enemy Orc 01 32_48: -1645217965023245863
+      Enemy Orc 01 32_49: 7104159774349618014
+      Enemy Orc 01 32_5: -6252654532064381152
+      Enemy Orc 01 32_50: -32763250719550982
+      Enemy Orc 01 32_6: -1609909737954501903
+      Enemy Orc 01 32_7: -4910961272644568953
+      Enemy Orc 01 32_8: -2513801877188234278
+      Enemy Orc 01 32_9: -3823267424001538054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

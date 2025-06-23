@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7336ee90fc6e9dc4f907237ac94d5753
+guid: 1e96160f0d36e594084103f6cede0411
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5730420304054655485
-    second: Canvas_0
+      213: -6101004243405706555
+    second: Orbinaut 04_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Canvas_0
+      name: Orbinaut 04_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3000
-        height: 3000
+        width: 48
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 306e22338157970b0800000000000000
-      internalID: -5730420304054655485
+      spriteID: 5cae6a217f0e45ba0800000000000000
+      internalID: -6101004243405706555
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Canvas_0: -5730420304054655485
+      Orbinaut 04_0: -6101004243405706555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
