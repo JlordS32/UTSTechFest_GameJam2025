@@ -2,21 +2,24 @@ using UnityEngine;
 
 public class CurrencyManager : MonoBehaviour
 {
-    [SerializeField] int water = 0;
-    [SerializeField] int waterPerTick = 5;
+    // PROPERTIES
+    [Header("Rate")]
+    [SerializeField] float _interval = 3f;
+    [SerializeField] int _waterPerTick = 5;
+    [SerializeField] int _sunlightPerTick = 5;
+    [SerializeField] int _seedPerTick = 5;
 
-    [SerializeField] int sunlight = 0;
-    [SerializeField] int sunlightPerTick = 5;
+    // VARIABLES
+    int _water = 0;
+    int _seed = 0;
+    int _sunlight = 0;
+    float _timer;
 
-    [SerializeField] int seed = 0;
-    [SerializeField] int seedPerTick = 5;
-
-    [SerializeField] float interval = 3f;
-
-    private float timer;
+    // REFERENCES
     UIManager _uiManager;
 
-    private void Awake()
+    #region UNITY_FUNCTIONS
+    void Awake()
     {
         _uiManager = FindFirstObjectByType<UIManager>();
     }
@@ -24,66 +27,73 @@ public class CurrencyManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        timer += Time.deltaTime;
+        _timer += Time.deltaTime;
 
-        if (timer >= interval)
+        if (_timer >= _interval)
         {
-            water += waterPerTick;
-            sunlight += sunlightPerTick;
-            seed += seedPerTick;
-            _uiManager.UpdateWaterText(water);
-            _uiManager.UpdateSunlightText(sunlight);
-            _uiManager.UpdateSeedText(seed);
-            timer = 0f;
+            IncreaseRate();
+            UpdateRateText();
+            _timer = 0f;    // Reset Timer
+        }
+    }
+    #endregion
+
+
+    #region CLASS_METHODS
+    void IncreaseRate()
+    {
+        _water += _waterPerTick;
+        _sunlight += _sunlightPerTick;
+        _seed += _seedPerTick;
+    }
+
+    void UpdateRateText()
+    {
+        _uiManager.UpdateWaterText(_water);
+        _uiManager.UpdateSunlightText(_sunlight);
+        _uiManager.UpdateSeedText(_seed);
+    }
+
+    #endregion
+
+    #region GETTERS/SETTERS
+    public int GetWater() => _water;
+    public void GetWaterFromWell()
+    {
+        _water += 5;
+        _uiManager.UpdateWaterText(_water);
+    }
+
+    public int GetWaterPerTick() => _waterPerTick;
+    public void IncreaseWaterRate()
+    {
+        _waterPerTick *= 2;
+    }
+
+    public void SpendWater(int amount)
+    {
+        if (_water >= amount)
+        {
+            _water -= amount;
         }
     }
 
-    public int GetWater() => water;
-    public bool GetWaterFromWell()
+    public int GetSunlight() => _sunlight;
+    public void SpendSunlight(int amount)
     {
-        water += 5;
-        _uiManager.UpdateWaterText(water);
-        return true;
-    }
-
-    public int GetWaterPerTick() => waterPerTick;
-    public bool ChangeWaterIncrement(int amount)
-    {
-        waterPerTick += amount;
-        return true;
-
-    }
-    public bool SpendWater(int amount)
-    {
-        if (water >= amount)
+        if (_sunlight >= amount)
         {
-            water -= amount;
-            return true;
+            _sunlight -= amount;
         }
-
-        return false;
     }
 
-    public int GetSunlight() => sunlight;
-    public bool SpendSunlight(int amount)
+    public int GetSeed() => _seed;
+    public void SpendSeed(int amount)
     {
-        if (sunlight >= amount)
+        if (_seed >= amount)
         {
-            sunlight -= amount;
-            return true;
+            _seed -= amount;
         }
-
-        return false;
     }
-
-    public int GetSeed() => seed;
-    public bool SpendSeed(int amount)
-    {
-        if (seed >= amount)
-        {
-            seed -= amount;
-            return true;
-        }
-        return false;
-    }
+    #endregion
 }

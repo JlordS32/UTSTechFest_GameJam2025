@@ -1,9 +1,7 @@
-using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "PlayerData", menuName = "Game/PlayerData")]
-[System.Serializable]
-public class PlayerData
+public class PlayerData : ScriptableObject
 {
     static readonly float EXP_LEVEL_UP_RATE = (1 + Mathf.Sqrt(5)) / 5;
     static readonly int ATK_LEVEL_UP_RATE = 2;
