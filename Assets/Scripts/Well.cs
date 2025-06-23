@@ -6,7 +6,7 @@ public class Well : MonoBehaviour
     public CurrencyManager waterManager;
 
 
-    public void Pressed()
+    public void WellIsPressed()
     {
         if (waterManager != null)
         {
