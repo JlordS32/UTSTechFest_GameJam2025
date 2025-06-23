@@ -65,9 +65,9 @@ public class CurrencyManager : MonoBehaviour
     }
 
     public int GetWaterPerTick() => _waterPerTick;
-    public void IncreaseWaterRate(int amount)
+    public void IncreaseWaterRate()
     {
-        _waterPerTick += amount;
+        _waterPerTick *= 2;
     }
 
     public void SpendWater(int amount)
