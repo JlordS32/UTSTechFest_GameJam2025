@@ -14,6 +14,12 @@ public class CurrencyManager : MonoBehaviour
     [SerializeField] float interval = 3f;
 
     private float timer;
+    UIManager _uiManager;
+
+    private void Awake()
+    {
+        _uiManager = FindFirstObjectByType<UIManager>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -25,11 +31,28 @@ public class CurrencyManager : MonoBehaviour
             water += waterPerTick;
             sunlight += sunlightPerTick;
             seed += seedPerTick;
+            _uiManager.UpdateWaterText(water);
+            _uiManager.UpdateSunlightText(sunlight);
+            _uiManager.UpdateSeedText(seed);
             timer = 0f;
         }
     }
 
     public int GetWater() => water;
+    public bool GetWaterFromWell()
+    {
+        water += 5;
+        _uiManager.UpdateWaterText(water);
+        return true;
+    }
+
+    public int GetWaterPerTick() => waterPerTick;
+    public bool ChangeWaterIncrement(int amount)
+    {
+        waterPerTick += amount;
+        return true;
+
+    }
     public bool SpendWater(int amount)
     {
         if (water >= amount)
