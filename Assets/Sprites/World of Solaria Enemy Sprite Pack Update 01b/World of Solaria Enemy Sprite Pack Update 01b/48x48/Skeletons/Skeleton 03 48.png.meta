@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: cd1ed0b0dc88c8e4482592363ea2a5ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1347686571611051936
+    second: Skeleton 03 48_0
+  - first:
+      213: 9015609606699653447
+    second: Skeleton 03 48_1
+  - first:
+      213: 6644257364552006971
+    second: Skeleton 03 48_2
+  - first:
+      213: 1573720777329765214
+    second: Skeleton 03 48_3
+  - first:
+      213: -790296835568858891
+    second: Skeleton 03 48_4
+  - first:
+      213: -5860393955830897900
+    second: Skeleton 03 48_5
+  - first:
+      213: -3524348992936653931
+    second: Skeleton 03 48_6
+  - first:
+      213: -6693159421897657315
+    second: Skeleton 03 48_7
+  - first:
+      213: 1029455368097547847
+    second: Skeleton 03 48_8
+  - first:
+      213: 8665587521735175927
+    second: Skeleton 03 48_9
+  - first:
+      213: 867788553500205349
+    second: Skeleton 03 48_10
+  - first:
+      213: -8724600445170786093
+    second: Skeleton 03 48_11
+  - first:
+      213: -1678871748119451263
+    second: Skeleton 03 48_12
+  - first:
+      213: -496358843262771602
+    second: Skeleton 03 48_13
+  - first:
+      213: -604231927979996767
+    second: Skeleton 03 48_14
+  - first:
+      213: 7125022597969824859
+    second: Skeleton 03 48_15
+  - first:
+      213: 8105931305572964688
+    second: Skeleton 03 48_16
+  - first:
+      213: 953552112437442128
+    second: Skeleton 03 48_17
+  - first:
+      213: -4480220127507485058
+    second: Skeleton 03 48_18
+  - first:
+      213: 2076166431005361915
+    second: Skeleton 03 48_19
+  - first:
+      213: 7864309277431585853
+    second: Skeleton 03 48_20
+  - first:
+      213: -2012532044957350873
+    second: Skeleton 03 48_21
+  - first:
+      213: 2157769811252761290
+    second: Skeleton 03 48_22
+  - first:
+      213: -6053219817521561128
+    second: Skeleton 03 48_23
+  - first:
+      213: -4601965720858671386
+    second: Skeleton 03 48_24
+  - first:
+      213: 3617696017116765655
+    second: Skeleton 03 48_25
+  - first:
+      213: 3161048831074106287
+    second: Skeleton 03 48_26
+  - first:
+      213: -7031109999485808790
+    second: Skeleton 03 48_27
+  - first:
+      213: -38821925419484068
+    second: Skeleton 03 48_28
+  - first:
+      213: 1154690494656788019
+    second: Skeleton 03 48_29
+  - first:
+      213: -613951922161862592
+    second: Skeleton 03 48_30
+  - first:
+      213: 2892617634578351120
+    second: Skeleton 03 48_31
+  - first:
+      213: 2005662535370537524
+    second: Skeleton 03 48_32
+  - first:
+      213: 7883325748229118391
+    second: Skeleton 03 48_33
+  - first:
+      213: 7375471923154791121
+    second: Skeleton 03 48_34
+  - first:
+      213: -7418532761143317957
+    second: Skeleton 03 48_35
+  - first:
+      213: -8120584542667306931
+    second: Skeleton 03 48_36
+  - first:
+      213: -2671614043969871287
+    second: Skeleton 03 48_37
+  - first:
+      213: -4176815453151347813
+    second: Skeleton 03 48_38
+  - first:
+      213: -2139842489193946545
+    second: Skeleton 03 48_39
+  - first:
+      213: 9144439505336238111
+    second: Skeleton 03 48_40
+  - first:
+      213: -2631625376295871761
+    second: Skeleton 03 48_41
+  - first:
+      213: -1311106680137663480
+    second: Skeleton 03 48_42
+  - first:
+      213: 865961934512665922
+    second: Skeleton 03 48_43
+  - first:
+      213: 4898423004742371626
+    second: Skeleton 03 48_44
+  - first:
+      213: -3333911857859606599
+    second: Skeleton 03 48_45
+  - first:
+      213: -1824719481740171351
+    second: Skeleton 03 48_46
+  - first:
+      213: 7756970984580450351
+    second: Skeleton 03 48_47
+  - first:
+      213: -866885925715755035
+    second: Skeleton 03 48_48
+  - first:
+      213: -383246346128220067
+    second: Skeleton 03 48_49
+  - first:
+      213: 3372331425792670818
+    second: Skeleton 03 48_50
+  - first:
+      213: -1160249392773747335
+    second: Skeleton 03 48_51
+  - first:
+      213: 8820253298429248171
+    second: Skeleton 03 48_52
+  - first:
+      213: 6167846025241077341
+    second: Skeleton 03 48_53
+  - first:
+      213: 7734764002520176677
+    second: Skeleton 03 48_54
+  - first:
+      213: -3118807722753967756
+    second: Skeleton 03 48_55
+  - first:
+      213: -4105582041934514752
+    second: Skeleton 03 48_56
+  - first:
+      213: 9066730422327115118
+    second: Skeleton 03 48_57
+  - first:
+      213: 2062997609951867961
+    second: Skeleton 03 48_58
+  - first:
+      213: 5026456433523087792
+    second: Skeleton 03 48_59
+  - first:
+      213: 8018136645217024081
+    second: Skeleton 03 48_60
+  - first:
+      213: 389035504622029779
+    second: Skeleton 03 48_61
+  - first:
+      213: 8924955877388961820
+    second: Skeleton 03 48_62
+  - first:
+      213: -5488479943051837696
+    second: Skeleton 03 48_63
+  - first:
+      213: -8206982412778038234
+    second: Skeleton 03 48_64
+  - first:
+      213: 4713469467474093006
+    second: Skeleton 03 48_65
+  - first:
+      213: 1687085693366205926
+    second: Skeleton 03 48_66
+  - first:
+      213: 3735001751281014444
+    second: Skeleton 03 48_67
+  - first:
+      213: 8740808313724247421
+    second: Skeleton 03 48_68
+  - first:
+      213: -7448053761733569697
+    second: Skeleton 03 48_69
+  - first:
+      213: 860270992000768255
+    second: Skeleton 03 48_70
+  - first:
+      213: 8587201055835006814
+    second: Skeleton 03 48_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton 03 48_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 719
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682f86143e0c4de0800000000000000
+      internalID: -1347686571611051936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 719
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7499ee8ab21ed1d70800000000000000
+      internalID: 9015609606699653447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 719
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d356aced4253c50800000000000000
+      internalID: 6644257364552006971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 719
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b646485baf6d510800000000000000
+      internalID: 1573720777329765214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 689
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f88dc8173d4805f0800000000000000
+      internalID: -790296835568858891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 686
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4136ad23fb2bbaea0800000000000000
+      internalID: -5860393955830897900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 686
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b4183834ff61fc0800000000000000
+      internalID: -3524348992936653931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 689
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d143bb8b7fe1d13a0800000000000000
+      internalID: -6693159421897657315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 719
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c297f33c594e00800000000000000
+      internalID: 1029455368097547847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 719
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe251350f9524870800000000000000
+      internalID: 8665587521735175927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a78777110b0c00800000000000000
+      internalID: 867788553500205349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 671
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0616abe1efbe680800000000000000
+      internalID: -8724600445170786093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 671
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a6e54a0373b8e0800000000000000
+      internalID: -1678871748119451263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ed23a03449c19f0800000000000000
+      internalID: -496358843262771602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a98dca43465d97f0800000000000000
+      internalID: -604231927979996767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c4f988d4a21e260800000000000000
+      internalID: 7125022597969824859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 623
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059156a439d0e7070800000000000000
+      internalID: 8105931305572964688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 623
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05638a81892bb3d00800000000000000
+      internalID: 953552112437442128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 623
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e6c50088f03d1c0800000000000000
+      internalID: -4480220127507485058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 623
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64aa67e5600dc10800000000000000
+      internalID: 2076166431005361915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 614
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5e15fe93a32d60800000000000000
+      internalID: 7864309277431585853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 611
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240a3994cc0214e0800000000000000
+      internalID: -2012532044957350873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 611
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac258c20630f1fd10800000000000000
+      internalID: 2157769811252761290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 614
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1c545b5a4aefba0800000000000000
+      internalID: -6053219817521561128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 623
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c1b32f888220c0800000000000000
+      internalID: -4601965720858671386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 623
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd17953c53a43230800000000000000
+      internalID: 3617696017116765655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 575
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabf5d5f92d4edb20800000000000000
+      internalID: 3161048831074106287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 575
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f83f735ba7c6e90800000000000000
+      internalID: -7031109999485808790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 575
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cffdd1aa3167ff0800000000000000
+      internalID: -38821925419484068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 575
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b98713e8460010800000000000000
+      internalID: 1154690494656788019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 575
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048bf5acafdca77f0800000000000000
+      internalID: -613951922161862592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 575
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c214b964a42820800000000000000
+      internalID: 2892617634578351120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 527
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af110137b85db10800000000000000
+      internalID: 2005662535370537524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 527
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b913e71003376d60800000000000000
+      internalID: 7883325748229118391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 527
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da228e13a0fa5660800000000000000
+      internalID: 7375471923154791121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 527
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a647142c31c0990800000000000000
+      internalID: -7418532761143317957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 518
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4889c51263ed4f80800000000000000
+      internalID: -8120584542667306931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 515
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9422b3c8e258cead0800000000000000
+      internalID: -2671614043969871287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 515
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b3d8e9978f806c0800000000000000
+      internalID: -4176815453151347813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 518
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42ae4ce790cd42e0800000000000000
+      internalID: -2139842489193946545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 479
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f108d91e74397ee70800000000000000
+      internalID: 9144439505336238111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea1bf7c9a69a7bd0800000000000000
+      internalID: -2631625376295871761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 479
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb0c3cb630ecde0800000000000000
+      internalID: -1311106680137663480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24533a79ac3840c00800000000000000
+      internalID: 865961934512665922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 431
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29454515c1baf340800000000000000
+      internalID: 4898423004742371626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 431
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c0df34d09bb1d0800000000000000
+      internalID: -3333911857859606599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 431
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a764249c4b4da6e0800000000000000
+      internalID: -1824719481740171351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 431
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f280ee4230c46ab60800000000000000
+      internalID: 7756970984580450351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 416
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef3de0f7d338f3f0800000000000000
+      internalID: -866885925715755035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 413
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50af8d8a7f6eaaf0800000000000000
+      internalID: -383246346128220067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_50
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 413
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c324b709decce20800000000000000
+      internalID: 3372331425792670818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 416
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dabd41357f5efe0800000000000000
+      internalID: -1160249392773747335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 383
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2c7d9a4a5d76a70800000000000000
+      internalID: 8820253298429248171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 383
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56acc30847989550800000000000000
+      internalID: 6167846025241077341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52891b731e6675b60800000000000000
+      internalID: 7734764002520176677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 383
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479318a76e4c7b4d0800000000000000
+      internalID: -3118807722753967756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5354a92ea0607c0800000000000000
+      internalID: -4105582041934514752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 335
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df801184f73dd70800000000000000
+      internalID: 9066730422327115118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_58
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 335
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93439a1656d31ac10800000000000000
+      internalID: 2062997609951867961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 335
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9de17be7f81c540800000000000000
+      internalID: 5026456433523087792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158f3b20cc4264f60800000000000000
+      internalID: 8018136645217024081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc202fab1266500800000000000000
+      internalID: 389035504622029779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 191
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18cdc38510dbdb70800000000000000
+      internalID: 8924955877388961820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ff98d229005d3b0800000000000000
+      internalID: -5488479943051837696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c9c706af0fa1e80800000000000000
+      internalID: -8206982412778038234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec36174f18b996140800000000000000
+      internalID: 4713469467474093006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_66
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 95
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed7cb2ef7bb96710800000000000000
+      internalID: 1687085693366205926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 95
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6119ccd4465d330800000000000000
+      internalID: 3735001751281014444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d905db9d69d4970800000000000000
+      internalID: 8740808313724247421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53dbdfa09233a890800000000000000
+      internalID: -7448053761733569697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff857c8c8eb40fb00800000000000000
+      internalID: 860270992000768255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton 03 48_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a7e30ddddb2770800000000000000
+      internalID: 8587201055835006814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton 03 48_0: -1347686571611051936
+      Skeleton 03 48_1: 9015609606699653447
+      Skeleton 03 48_10: 867788553500205349
+      Skeleton 03 48_11: -8724600445170786093
+      Skeleton 03 48_12: -1678871748119451263
+      Skeleton 03 48_13: -496358843262771602
+      Skeleton 03 48_14: -604231927979996767
+      Skeleton 03 48_15: 7125022597969824859
+      Skeleton 03 48_16: 8105931305572964688
+      Skeleton 03 48_17: 953552112437442128
+      Skeleton 03 48_18: -4480220127507485058
+      Skeleton 03 48_19: 2076166431005361915
+      Skeleton 03 48_2: 6644257364552006971
+      Skeleton 03 48_20: 7864309277431585853
+      Skeleton 03 48_21: -2012532044957350873
+      Skeleton 03 48_22: 2157769811252761290
+      Skeleton 03 48_23: -6053219817521561128
+      Skeleton 03 48_24: -4601965720858671386
+      Skeleton 03 48_25: 3617696017116765655
+      Skeleton 03 48_26: 3161048831074106287
+      Skeleton 03 48_27: -7031109999485808790
+      Skeleton 03 48_28: -38821925419484068
+      Skeleton 03 48_29: 1154690494656788019
+      Skeleton 03 48_3: 1573720777329765214
+      Skeleton 03 48_30: -613951922161862592
+      Skeleton 03 48_31: 2892617634578351120
+      Skeleton 03 48_32: 2005662535370537524
+      Skeleton 03 48_33: 7883325748229118391
+      Skeleton 03 48_34: 7375471923154791121
+      Skeleton 03 48_35: -7418532761143317957
+      Skeleton 03 48_36: -8120584542667306931
+      Skeleton 03 48_37: -2671614043969871287
+      Skeleton 03 48_38: -4176815453151347813
+      Skeleton 03 48_39: -2139842489193946545
+      Skeleton 03 48_4: -790296835568858891
+      Skeleton 03 48_40: 9144439505336238111
+      Skeleton 03 48_41: -2631625376295871761
+      Skeleton 03 48_42: -1311106680137663480
+      Skeleton 03 48_43: 865961934512665922
+      Skeleton 03 48_44: 4898423004742371626
+      Skeleton 03 48_45: -3333911857859606599
+      Skeleton 03 48_46: -1824719481740171351
+      Skeleton 03 48_47: 7756970984580450351
+      Skeleton 03 48_48: -866885925715755035
+      Skeleton 03 48_49: -383246346128220067
+      Skeleton 03 48_5: -5860393955830897900
+      Skeleton 03 48_50: 3372331425792670818
+      Skeleton 03 48_51: -1160249392773747335
+      Skeleton 03 48_52: 8820253298429248171
+      Skeleton 03 48_53: 6167846025241077341
+      Skeleton 03 48_54: 7734764002520176677
+      Skeleton 03 48_55: -3118807722753967756
+      Skeleton 03 48_56: -4105582041934514752
+      Skeleton 03 48_57: 9066730422327115118
+      Skeleton 03 48_58: 2062997609951867961
+      Skeleton 03 48_59: 5026456433523087792
+      Skeleton 03 48_6: -3524348992936653931
+      Skeleton 03 48_60: 8018136645217024081
+      Skeleton 03 48_61: 389035504622029779
+      Skeleton 03 48_62: 8924955877388961820
+      Skeleton 03 48_63: -5488479943051837696
+      Skeleton 03 48_64: -8206982412778038234
+      Skeleton 03 48_65: 4713469467474093006
+      Skeleton 03 48_66: 1687085693366205926
+      Skeleton 03 48_67: 3735001751281014444
+      Skeleton 03 48_68: 8740808313724247421
+      Skeleton 03 48_69: -7448053761733569697
+      Skeleton 03 48_7: -6693159421897657315
+      Skeleton 03 48_70: 860270992000768255
+      Skeleton 03 48_71: 8587201055835006814
+      Skeleton 03 48_8: 1029455368097547847
+      Skeleton 03 48_9: 8665587521735175927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

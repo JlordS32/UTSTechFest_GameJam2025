@@ -1,91 +1,88 @@
 fileFormatVersion: 2
-guid: ed0ae618cefab2c47a4f870066151e73
+guid: 583385fdf4f497e439109839bfd59a86
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7515056625500712941
-    second: Canvas original_0
+      213: 5636851652338988064
+    second: Rat 01_0
   - first:
-      213: -7255932911056478781
-    second: Canvas original_1
+      213: 3431823846764231676
+    second: Rat 01_1
   - first:
-      213: -6496226833450432901
-    second: Canvas original_2
+      213: -7075696956316386782
+    second: Rat 01_2
   - first:
-      213: 1096077321126170636
-    second: Canvas original_3
+      213: -3741345339538604996
+    second: Rat 01_3
   - first:
-      213: -875646875119147408
-    second: Canvas original_4
+      213: -3662033333031436833
+    second: Rat 01_4
   - first:
-      213: 5830873433216650949
-    second: Canvas original_5
+      213: -3642383850735068479
+    second: Rat 01_5
   - first:
-      213: -364981741142094124
-    second: Canvas original_6
+      213: -5894471863517326357
+    second: Rat 01_6
   - first:
-      213: -4656052129856097734
-    second: Canvas original_7
+      213: 8319141745561048825
+    second: Rat 01_7
   - first:
-      213: -1320449530481091711
-    second: Canvas original_8
+      213: 301219963448335486
+    second: Rat 01_8
   - first:
-      213: 3579538408019212722
-    second: Canvas original_9
+      213: 2426826490298180899
+    second: Rat 01_9
   - first:
-      213: 1934122226187058505
-    second: Canvas original_10
+      213: -3150884527575720391
+    second: Rat 01_10
   - first:
-      213: 8935303778945178867
-    second: Canvas original_11
+      213: 6672113473331264563
+    second: Rat 01_11
   - first:
-      213: -4483862533580660431
-    second: Canvas original_12
+      213: 3630978612148267861
+    second: Rat 01_12
   - first:
-      213: -1730647987626620517
-    second: Canvas original_13
+      213: -3541010733014886601
+    second: Rat 01_13
   - first:
-      213: 4568603393425982925
-    second: Canvas original_14
+      213: 3174579990020800616
+    second: Rat 01_14
   - first:
-      213: -3448756000103553664
-    second: Canvas original_15
+      213: -4388258708745988902
+    second: Rat 01_15
   - first:
-      213: -4240182103793153876
-    second: Canvas original_16
+      213: 8272516725801129991
+    second: Rat 01_16
   - first:
-      213: -3462974492617052321
-    second: Canvas original_17
+      213: 3354371351091587564
+    second: Rat 01_17
   - first:
-      213: 4471200485122889972
-    second: Canvas original_18
+      213: -2029254035030786434
+    second: Rat 01_18
   - first:
-      213: 2173753080155529812
-    second: Canvas original_19
+      213: 32022742893583265
+    second: Rat 01_19
   - first:
-      213: 521936306953563821
-    second: Canvas original_20
+      213: -2111709451534143243
+    second: Rat 01_20
   - first:
-      213: -5950896758417026616
-    second: Canvas original_21
+      213: 8932052939933825816
+    second: Rat 01_21
   - first:
-      213: 6751055706365501771
-    second: Canvas original_22
+      213: 3621976850686907318
+    second: Rat 01_22
   - first:
-      213: 527469729525496260
-    second: Canvas original_23
+      213: -4664805958394644681
+    second: Rat 01_23
   - first:
-      213: -6680564664018661617
-    second: Canvas original_24
+      213: 1598373405631609623
+    second: Rat 01_24
   - first:
-      213: -8301701084513573569
-    second: Canvas original_25
+      213: -1054871558004983281
+    second: Rat 01_25
   - first:
-      213: -7744113598098909570
-    second: Canvas original_26
-  - first:
-      213: -4284359538142904003
-    second: Canvas original_27
+      213: 542433433154438376
+    second: Rat 01_26
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,7 +115,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +129,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -194,13 +191,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Canvas original_0
+      name: Rat 01_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 245
-        width: 19
-        height: 31
+        x: 0
+        y: 95
+        width: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,481 +206,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 310951ac0d725b790800000000000000
-      internalID: -7515056625500712941
+      spriteID: 0243d3566be1a3e40800000000000000
+      internalID: 5636851652338988064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_1
+      name: Rat 01_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 245
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3cd9962067fbd4b90800000000000000
-      internalID: -7255932911056478781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_2
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 246
-        width: 29
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7683db0d14c8d5a0800000000000000
-      internalID: -6496226833450432901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_3
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 246
-        width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c00561c248c063f00800000000000000
-      internalID: 1096077321126170636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_4
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 247
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 076a7d37ec319d3f0800000000000000
-      internalID: -875646875119147408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_5
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 191
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ce04258e7c6be050800000000000000
-      internalID: 5830873433216650949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_6
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 191
-        width: 15
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dec8b94a035feaf0800000000000000
-      internalID: -364981741142094124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_7
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 191
-        width: 21
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a32f938b141626fb0800000000000000
-      internalID: -4656052129856097734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_8
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 191
-        width: 19
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18bd7d7e522dcade0800000000000000
-      internalID: -1320449530481091711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_9
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 191
-        width: 24
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b93ad587331da130800000000000000
-      internalID: 3579538408019212722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_10
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 191
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94d3114dae167da10800000000000000
-      internalID: 1934122226187058505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_11
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fc9b381273900c70800000000000000
-      internalID: 8935303778945178867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_12
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 131ed3048ce16c1c0800000000000000
-      internalID: -4483862533580660431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_13
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b99454a13d08bf7e0800000000000000
-      internalID: -1730647987626620517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_14
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc5ccc0b490f66f30800000000000000
-      internalID: 4568603393425982925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_15
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 085a4d0b0be8320d0800000000000000
-      internalID: -3448756000103553664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_16
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca8c07097d8d725c0800000000000000
-      internalID: -4240182103793153876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_17
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 85
-        width: 11
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5f625deb0b01ffc0800000000000000
-      internalID: -3462974492617052321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_18
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 85
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f8dd4bd625ec0e30800000000000000
-      internalID: 4471200485122889972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_19
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 98
-        width: 14
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 452e41cc8e8ba2e10800000000000000
-      internalID: 2173753080155529812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_20
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 86
+        x: 1
+        y: 111
         width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: daea85b4e4a4e3700800000000000000
-      internalID: 521936306953563821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_21
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 85
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c1978b6dea2a6da0800000000000000
-      internalID: -5950896758417026616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_22
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 91
-        width: 14
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -693,42 +228,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b412ac4756190bd50800000000000000
-      internalID: 6751055706365501771
+      spriteID: cfbb8162b9940af20800000000000000
+      internalID: 3431823846764231676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_23
+      name: Rat 01_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 84
-        width: 22
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c97322ace2f15700800000000000000
-      internalID: 527469729525496260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_24
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 94
+        x: 15
+        y: 95
         width: 18
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,42 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0f042e45ddd943a0800000000000000
-      internalID: -6680564664018661617
+      spriteID: 22af27c5b131ecd90800000000000000
+      internalID: -7075696956316386782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_25
+      name: Rat 01_3
       rect:
         serializedVersion: 2
-        x: 58
-        y: 82
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f35e71219de6acc80800000000000000
-      internalID: -8301701084513573569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_26
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 84
+        x: 17
+        y: 111
         width: 16
-        height: 10
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,20 +272,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e76da0d66b1678490800000000000000
-      internalID: -7744113598098909570
+      spriteID: c3cfcb67c32141cc0800000000000000
+      internalID: -3741345339538604996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_27
+      name: Rat 01_4
       rect:
         serializedVersion: 2
-        x: 175
-        y: 83
-        width: 6
-        height: 7
+        x: 31
+        y: 95
+        width: 18
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,8 +294,492 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d318fe613b5ea84c0800000000000000
-      internalID: -4284359538142904003
+      spriteID: fdd750df518dd2dc0800000000000000
+      internalID: -3662033333031436833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca11599f27a37dc0800000000000000
+      internalID: -3642383850735068479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3d3840211a23ea0800000000000000
+      internalID: -5894471863517326357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61a444757837370800000000000000
+      internalID: 8319141745561048825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1898f5f52e2400800000000000000
+      internalID: 301219963448335486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3252bb5c5d1dda120800000000000000
+      internalID: 2426826490298180899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e139d573fc544d0800000000000000
+      internalID: -3150884527575720391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cf1078adb189c50800000000000000
+      internalID: 6672113473331264563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b632c5fc3d36230800000000000000
+      internalID: 3630978612148267861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7375dc8df7dcbdec0800000000000000
+      internalID: -3541010733014886601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860c0486eaf5e0c20800000000000000
+      internalID: 3174579990020800616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad45ea254f5c913c0800000000000000
+      internalID: -4388258708745988902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089ad7e122edc270800000000000000
+      internalID: 8272516725801129991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9af8ab8fe1d8e20800000000000000
+      internalID: 3354371351091587564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e36f2e434a6d3e0800000000000000
+      internalID: -2029254035030786434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd7e6d384c17000800000000000000
+      internalID: 32022742893583265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0f8703173b1b2e0800000000000000
+      internalID: -2111709451534143243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b3db723d605fb70800000000000000
+      internalID: 8932052939933825816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b391e171c8d34230800000000000000
+      internalID: 3621976850686907318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737f2cf22b7434fb0800000000000000
+      internalID: -4664805958394644681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7a15d4209e2610800000000000000
+      internalID: 1598373405631609623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a337d28e75c51f0800000000000000
+      internalID: -1054871558004983281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat 01_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e44771655c178700800000000000000
+      internalID: 542433433154438376
       vertices: []
       indices: 
       edges: []
@@ -823,34 +798,33 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Canvas original_0: -7515056625500712941
-      Canvas original_1: -7255932911056478781
-      Canvas original_10: 1934122226187058505
-      Canvas original_11: 8935303778945178867
-      Canvas original_12: -4483862533580660431
-      Canvas original_13: -1730647987626620517
-      Canvas original_14: 4568603393425982925
-      Canvas original_15: -3448756000103553664
-      Canvas original_16: -4240182103793153876
-      Canvas original_17: -3462974492617052321
-      Canvas original_18: 4471200485122889972
-      Canvas original_19: 2173753080155529812
-      Canvas original_2: -6496226833450432901
-      Canvas original_20: 521936306953563821
-      Canvas original_21: -5950896758417026616
-      Canvas original_22: 6751055706365501771
-      Canvas original_23: 527469729525496260
-      Canvas original_24: -6680564664018661617
-      Canvas original_25: -8301701084513573569
-      Canvas original_26: -7744113598098909570
-      Canvas original_27: -4284359538142904003
-      Canvas original_3: 1096077321126170636
-      Canvas original_4: -875646875119147408
-      Canvas original_5: 5830873433216650949
-      Canvas original_6: -364981741142094124
-      Canvas original_7: -4656052129856097734
-      Canvas original_8: -1320449530481091711
-      Canvas original_9: 3579538408019212722
+      Rat 01_0: 5636851652338988064
+      Rat 01_1: 3431823846764231676
+      Rat 01_10: -3150884527575720391
+      Rat 01_11: 6672113473331264563
+      Rat 01_12: 3630978612148267861
+      Rat 01_13: -3541010733014886601
+      Rat 01_14: 3174579990020800616
+      Rat 01_15: -4388258708745988902
+      Rat 01_16: 8272516725801129991
+      Rat 01_17: 3354371351091587564
+      Rat 01_18: -2029254035030786434
+      Rat 01_19: 32022742893583265
+      Rat 01_2: -7075696956316386782
+      Rat 01_20: -2111709451534143243
+      Rat 01_21: 8932052939933825816
+      Rat 01_22: 3621976850686907318
+      Rat 01_23: -4664805958394644681
+      Rat 01_24: 1598373405631609623
+      Rat 01_25: -1054871558004983281
+      Rat 01_26: 542433433154438376
+      Rat 01_3: -3741345339538604996
+      Rat 01_4: -3662033333031436833
+      Rat 01_5: -3642383850735068479
+      Rat 01_6: -5894471863517326357
+      Rat 01_7: 8319141745561048825
+      Rat 01_8: 301219963448335486
+      Rat 01_9: 2426826490298180899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

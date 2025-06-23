@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 7336ee90fc6e9dc4f907237ac94d5753
+guid: 2de3faa63b4da184c9cf27c451ba44de
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5730420304054655485
-    second: Canvas_0
+      213: 2825151241686331680
+    second: Orbinaut 01 48_0
+  - first:
+      213: -8964203015982546973
+    second: Orbinaut 01 48_1
+  - first:
+      213: -8876597442224691569
+    second: Orbinaut 01 48_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Canvas_0
+      name: Orbinaut 01 48_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3000
-        height: 3000
+        width: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +134,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 306e22338157970b0800000000000000
-      internalID: -5730420304054655485
+      spriteID: 021b7750614f43720800000000000000
+      internalID: 2825151241686331680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orbinaut 01 48_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efffd1f9d0c89380800000000000000
+      internalID: -8964203015982546973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orbinaut 01 48_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f866e0218adffc480800000000000000
+      internalID: -8876597442224691569
       vertices: []
       indices: 
       edges: []
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Canvas_0: -5730420304054655485
+      Orbinaut 01 48_0: 2825151241686331680
+      Orbinaut 01 48_1: -8964203015982546973
+      Orbinaut 01 48_2: -8876597442224691569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

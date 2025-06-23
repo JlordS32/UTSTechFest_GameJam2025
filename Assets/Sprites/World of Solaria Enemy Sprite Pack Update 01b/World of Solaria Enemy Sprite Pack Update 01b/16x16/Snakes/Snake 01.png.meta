@@ -1,91 +1,103 @@
 fileFormatVersion: 2
-guid: ed0ae618cefab2c47a4f870066151e73
+guid: ae11835741d02104193d33d33274660d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7515056625500712941
-    second: Canvas original_0
+      213: -2860620374306590753
+    second: Snake 01_0
   - first:
-      213: -7255932911056478781
-    second: Canvas original_1
+      213: 4046478587070827141
+    second: Snake 01_1
   - first:
-      213: -6496226833450432901
-    second: Canvas original_2
+      213: 1923895245540384880
+    second: Snake 01_2
   - first:
-      213: 1096077321126170636
-    second: Canvas original_3
+      213: 8536205844098127665
+    second: Snake 01_3
   - first:
-      213: -875646875119147408
-    second: Canvas original_4
+      213: 8156894057710426351
+    second: Snake 01_4
   - first:
-      213: 5830873433216650949
-    second: Canvas original_5
+      213: 5965967251399243452
+    second: Snake 01_5
   - first:
-      213: -364981741142094124
-    second: Canvas original_6
+      213: -6258337413628174227
+    second: Snake 01_6
   - first:
-      213: -4656052129856097734
-    second: Canvas original_7
+      213: -3632568564020863235
+    second: Snake 01_7
   - first:
-      213: -1320449530481091711
-    second: Canvas original_8
+      213: 4838220470634201496
+    second: Snake 01_8
   - first:
-      213: 3579538408019212722
-    second: Canvas original_9
+      213: -1105192194944879730
+    second: Snake 01_9
   - first:
-      213: 1934122226187058505
-    second: Canvas original_10
+      213: -7529565223253532656
+    second: Snake 01_10
   - first:
-      213: 8935303778945178867
-    second: Canvas original_11
+      213: -3553096448450017323
+    second: Snake 01_11
   - first:
-      213: -4483862533580660431
-    second: Canvas original_12
+      213: -6057117865644002687
+    second: Snake 01_12
   - first:
-      213: -1730647987626620517
-    second: Canvas original_13
+      213: 7331000449163925715
+    second: Snake 01_13
   - first:
-      213: 4568603393425982925
-    second: Canvas original_14
+      213: -4760924062525554984
+    second: Snake 01_14
   - first:
-      213: -3448756000103553664
-    second: Canvas original_15
+      213: 7477275951137107178
+    second: Snake 01_15
   - first:
-      213: -4240182103793153876
-    second: Canvas original_16
+      213: 8755339326406634939
+    second: Snake 01_16
   - first:
-      213: -3462974492617052321
-    second: Canvas original_17
+      213: -2351050024455332765
+    second: Snake 01_17
   - first:
-      213: 4471200485122889972
-    second: Canvas original_18
+      213: 240297936549651389
+    second: Snake 01_18
   - first:
-      213: 2173753080155529812
-    second: Canvas original_19
+      213: -8539499958282788003
+    second: Snake 01_19
   - first:
-      213: 521936306953563821
-    second: Canvas original_20
+      213: 6393193790373141783
+    second: Snake 01_20
   - first:
-      213: -5950896758417026616
-    second: Canvas original_21
+      213: 1825025378803274922
+    second: Snake 01_21
   - first:
-      213: 6751055706365501771
-    second: Canvas original_22
+      213: 7857135873916336839
+    second: Snake 01_22
   - first:
-      213: 527469729525496260
-    second: Canvas original_23
+      213: -2127628975765074563
+    second: Snake 01_23
   - first:
-      213: -6680564664018661617
-    second: Canvas original_24
+      213: 2423703222722015945
+    second: Snake 01_24
   - first:
-      213: -8301701084513573569
-    second: Canvas original_25
+      213: -4868802914501108136
+    second: Snake 01_25
   - first:
-      213: -7744113598098909570
-    second: Canvas original_26
+      213: 6222901735103336412
+    second: Snake 01_26
   - first:
-      213: -4284359538142904003
-    second: Canvas original_27
+      213: 6191213597913875621
+    second: Snake 01_27
+  - first:
+      213: -3208422079091255117
+    second: Snake 01_28
+  - first:
+      213: -3552820858503139826
+    second: Snake 01_29
+  - first:
+      213: 2847814455676483017
+    second: Snake 01_30
+  - first:
+      213: -3620282716812629151
+    second: Snake 01_31
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,7 +130,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +144,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -194,145 +206,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Canvas original_0
+      name: Snake 01_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 245
-        width: 19
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 310951ac0d725b790800000000000000
-      internalID: -7515056625500712941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_1
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 245
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3cd9962067fbd4b90800000000000000
-      internalID: -7255932911056478781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_2
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 246
-        width: 29
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7683db0d14c8d5a0800000000000000
-      internalID: -6496226833450432901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_3
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 246
-        width: 25
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c00561c248c063f00800000000000000
-      internalID: 1096077321126170636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_4
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 247
-        width: 20
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 076a7d37ec319d3f0800000000000000
-      internalID: -875646875119147408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_5
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 191
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ce04258e7c6be050800000000000000
-      internalID: 5830873433216650949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_6
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 191
+        x: 0
+        y: 95
         width: 15
-        height: 32
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4dec8b94a035feaf0800000000000000
-      internalID: -364981741142094124
+      spriteID: fdfe5300de80d48d0800000000000000
+      internalID: -2860620374306590753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_7
+      name: Snake 01_1
       rect:
         serializedVersion: 2
-        x: 94
-        y: 191
-        width: 21
-        height: 31
+        x: 1
+        y: 111
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,371 +243,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a32f938b141626fb0800000000000000
-      internalID: -4656052129856097734
+      spriteID: 58ac495f5daf72830800000000000000
+      internalID: 4046478587070827141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_8
+      name: Snake 01_2
       rect:
         serializedVersion: 2
-        x: 129
-        y: 191
-        width: 19
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18bd7d7e522dcade0800000000000000
-      internalID: -1320449530481091711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_9
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 191
-        width: 24
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b93ad587331da130800000000000000
-      internalID: 3579538408019212722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_10
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 191
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94d3114dae167da10800000000000000
-      internalID: 1934122226187058505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_11
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fc9b381273900c70800000000000000
-      internalID: 8935303778945178867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_12
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 131ed3048ce16c1c0800000000000000
-      internalID: -4483862533580660431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_13
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b99454a13d08bf7e0800000000000000
-      internalID: -1730647987626620517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_14
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 143
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc5ccc0b490f66f30800000000000000
-      internalID: 4568603393425982925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_15
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 085a4d0b0be8320d0800000000000000
-      internalID: -3448756000103553664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_16
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 142
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca8c07097d8d725c0800000000000000
-      internalID: -4240182103793153876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_17
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 85
-        width: 11
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5f625deb0b01ffc0800000000000000
-      internalID: -3462974492617052321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_18
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 85
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f8dd4bd625ec0e30800000000000000
-      internalID: 4471200485122889972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_19
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 98
-        width: 14
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 452e41cc8e8ba2e10800000000000000
-      internalID: 2173753080155529812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_20
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 86
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: daea85b4e4a4e3700800000000000000
-      internalID: 521936306953563821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_21
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 85
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c1978b6dea2a6da0800000000000000
-      internalID: -5950896758417026616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_22
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 91
-        width: 14
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b412ac4756190bd50800000000000000
-      internalID: 6751055706365501771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_23
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 84
-        width: 22
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c97322ace2f15700800000000000000
-      internalID: 527469729525496260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Canvas original_24
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 94
-        width: 18
+        x: 17
+        y: 111
+        width: 15
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -737,19 +265,459 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0f042e45ddd943a0800000000000000
-      internalID: -6680564664018661617
+      spriteID: 0706f77588c03ba10800000000000000
+      internalID: 1923895245540384880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_25
+      name: Snake 01_3
       rect:
         serializedVersion: 2
-        x: 58
-        y: 82
+        x: 33
+        y: 111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137151b0df1b67670800000000000000
+      internalID: 8536205844098127665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8135cadeb133170800000000000000
+      internalID: 8156894057710426351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6f3492b9f5bc250800000000000000
+      internalID: 5965967251399243452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e728c74be529a0800000000000000
+      internalID: -6258337413628174227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
         width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe194f1326869dc0800000000000000
+      internalID: -3632568564020863235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891cc2152efc42340800000000000000
+      internalID: 4838220470634201496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83b6c3ed8199a0f0800000000000000
+      internalID: -1105192194944879730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a6d2a25c918790800000000000000
+      internalID: -7529565223253532656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d74f61fa9dd0bec0800000000000000
+      internalID: -3553096448450017323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182fd97a46bc0fba0800000000000000
+      internalID: -6057117865644002687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d815a43112fcb560800000000000000
+      internalID: 7331000449163925715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8defd822acccdedb0800000000000000
+      internalID: -4760924062525554984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec291b7cde94c760800000000000000
+      internalID: 7477275951137107178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbda976cab6318970800000000000000
+      internalID: 8755339326406634939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c9a2b85746f5fd0800000000000000
+      internalID: -2351050024455332765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32d4c33b5b55300800000000000000
+      internalID: 240297936549651389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53671b380a9d7980800000000000000
+      internalID: -8539499958282788003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d9c6731ef29b850800000000000000
+      internalID: 6393193790373141783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa454a1a9eac35910800000000000000
+      internalID: 1825025378803274922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf2ccc2772a0d60800000000000000
+      internalID: 7857135873916336839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 13
         height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -759,20 +727,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f35e71219de6acc80800000000000000
-      internalID: -8301701084513573569
+      spriteID: d7dc1bd18b42972e0800000000000000
+      internalID: -2127628975765074563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_26
+      name: Snake 01_24
       rect:
         serializedVersion: 2
-        x: 159
-        y: 84
-        width: 16
-        height: 10
+        x: 49
+        y: 47
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,20 +749,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e76da0d66b1678490800000000000000
-      internalID: -7744113598098909570
+      spriteID: 9c2b05f5d39b2a120800000000000000
+      internalID: 2423703222722015945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Canvas original_27
+      name: Snake 01_25
       rect:
         serializedVersion: 2
-        x: 175
-        y: 83
-        width: 6
-        height: 7
+        x: 0
+        y: 0
+        width: 17
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,8 +771,140 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d318fe613b5ea84c0800000000000000
-      internalID: -4284359538142904003
+      spriteID: 85e56c79b898e6cb0800000000000000
+      internalID: -4868802914501108136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf0ff068203c5650800000000000000
+      internalID: 6222901735103336412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4893007fb9be550800000000000000
+      internalID: 6191213597913875621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8de363e156973d0800000000000000
+      internalID: -3208422079091255117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e625ab048d1bec0800000000000000
+      internalID: -3552820858503139826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5b1d8b828758720800000000000000
+      internalID: 2847814455676483017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 01_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ba5e5dc0c22cdc0800000000000000
+      internalID: -3620282716812629151
       vertices: []
       indices: 
       edges: []
@@ -823,34 +923,38 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Canvas original_0: -7515056625500712941
-      Canvas original_1: -7255932911056478781
-      Canvas original_10: 1934122226187058505
-      Canvas original_11: 8935303778945178867
-      Canvas original_12: -4483862533580660431
-      Canvas original_13: -1730647987626620517
-      Canvas original_14: 4568603393425982925
-      Canvas original_15: -3448756000103553664
-      Canvas original_16: -4240182103793153876
-      Canvas original_17: -3462974492617052321
-      Canvas original_18: 4471200485122889972
-      Canvas original_19: 2173753080155529812
-      Canvas original_2: -6496226833450432901
-      Canvas original_20: 521936306953563821
-      Canvas original_21: -5950896758417026616
-      Canvas original_22: 6751055706365501771
-      Canvas original_23: 527469729525496260
-      Canvas original_24: -6680564664018661617
-      Canvas original_25: -8301701084513573569
-      Canvas original_26: -7744113598098909570
-      Canvas original_27: -4284359538142904003
-      Canvas original_3: 1096077321126170636
-      Canvas original_4: -875646875119147408
-      Canvas original_5: 5830873433216650949
-      Canvas original_6: -364981741142094124
-      Canvas original_7: -4656052129856097734
-      Canvas original_8: -1320449530481091711
-      Canvas original_9: 3579538408019212722
+      Snake 01_0: -2860620374306590753
+      Snake 01_1: 4046478587070827141
+      Snake 01_10: -7529565223253532656
+      Snake 01_11: -3553096448450017323
+      Snake 01_12: -6057117865644002687
+      Snake 01_13: 7331000449163925715
+      Snake 01_14: -4760924062525554984
+      Snake 01_15: 7477275951137107178
+      Snake 01_16: 8755339326406634939
+      Snake 01_17: -2351050024455332765
+      Snake 01_18: 240297936549651389
+      Snake 01_19: -8539499958282788003
+      Snake 01_2: 1923895245540384880
+      Snake 01_20: 6393193790373141783
+      Snake 01_21: 1825025378803274922
+      Snake 01_22: 7857135873916336839
+      Snake 01_23: -2127628975765074563
+      Snake 01_24: 2423703222722015945
+      Snake 01_25: -4868802914501108136
+      Snake 01_26: 6222901735103336412
+      Snake 01_27: 6191213597913875621
+      Snake 01_28: -3208422079091255117
+      Snake 01_29: -3552820858503139826
+      Snake 01_3: 8536205844098127665
+      Snake 01_30: 2847814455676483017
+      Snake 01_31: -3620282716812629151
+      Snake 01_4: 8156894057710426351
+      Snake 01_5: 5965967251399243452
+      Snake 01_6: -6258337413628174227
+      Snake 01_7: -3632568564020863235
+      Snake 01_8: 4838220470634201496
+      Snake 01_9: -1105192194944879730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
