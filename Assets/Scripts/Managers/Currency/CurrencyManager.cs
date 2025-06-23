@@ -32,6 +32,13 @@ public class CurrencyManager : MonoBehaviour
     float _sunlight = 0;
     float _timer;
 
+    // LEVEL TRACKING
+    int _waterRateLevel = 0;
+    int _seedRateLevel = 0;
+    int _waterClickLevel = 0;
+    int _seedClickLevel = 0;
+    int _consumptionLevel = 0;
+
     UIManager _uiManager;
 
     void Awake()
@@ -87,12 +94,26 @@ public class CurrencyManager : MonoBehaviour
     public float GetWaterPerClick() => _waterPerClick;
     public void IncreaseWaterRate()
     {
-        _waterPerTick *= _waterPerTickUpgrade;
+        float cost = GetSunlightUpgradeCost(_waterRateLevel);
+        if (_sunlight >= cost)
+        {
+            _sunlight -= cost;
+            _waterPerTick *= _waterPerTickUpgrade;
+            _waterRateLevel++;
+            UpdateCurrencyText();
+        }
     }
 
     public void IncreaseWaterPerClick()
     {
-        _waterPerClick *= _waterPerClickUpgrade;
+        float cost = GetSunlightUpgradeCost(_waterClickLevel);
+        if (_sunlight >= cost)
+        {
+            _sunlight -= cost;
+            _waterPerClick *= _waterPerClickUpgrade;
+            _waterClickLevel++;
+            UpdateCurrencyText();
+        }
     }
 
     public bool SpendWater()
@@ -117,13 +138,28 @@ public class CurrencyManager : MonoBehaviour
     public float GetSeedPerTick() => _seedPerTick;
     public void IncreaseSeedRate()
     {
-        _seedPerTick *= _seedPerTickUpgrade;
+        float cost = GetSunlightUpgradeCost(_seedRateLevel);
+        if (_sunlight >= cost)
+        {
+            _sunlight -= cost;
+            _seedPerTick *= _seedPerTickUpgrade;
+            _seedRateLevel++;
+            UpdateCurrencyText();
+        }
     }
+
 
     public float GetSeedPerClick() => _seedPerClick;
     public void IncreaseSeedPerClick()
     {
-        _seedPerClick *= _seedPerClickUpgrade;
+        float cost = GetSunlightUpgradeCost(_seedClickLevel);
+        if (_sunlight >= cost)
+        {
+            _sunlight -= cost;
+            _seedPerClick *= _seedPerClickUpgrade;
+            _seedClickLevel++;
+            UpdateCurrencyText();
+        }
     }
 
     public bool SpendSeed()
@@ -131,7 +167,7 @@ public class CurrencyManager : MonoBehaviour
         if (_seed >= _consumptionPerClick)
         {
             _seed -= _consumptionPerClick;
-            _uiManager.UpdateSeedText(_seed);
+            UpdateCurrencyText();
             return true;
         }
         return false;
@@ -140,6 +176,18 @@ public class CurrencyManager : MonoBehaviour
     public float GetConsumptionRate() => _consumptionPerClick;
     public void IncreaseConsumptionRate()
     {
-        _consumptionPerClick *= _consumptionRateUpgrade;
+        float cost = GetSunlightUpgradeCost(_consumptionLevel);
+        if (_sunlight >= cost)
+        {
+            _sunlight -= cost;
+            _consumptionPerClick *= _consumptionRateUpgrade;
+            _consumptionLevel++;
+            UpdateCurrencyText();
+        }
+    }
+
+    float GetSunlightUpgradeCost(int level, float baseCost = 1f, float multiplier = 1.5f)
+    {
+        return Mathf.Round(baseCost * Mathf.Pow(multiplier, level));
     }
 }
