@@ -60,7 +60,7 @@ public class CurrencyManager : MonoBehaviour
     public int GetWater() => _water;
     public void GetWaterFromWell()
     {
-        _water += 5;
+        _water += 100;
         _uiManager.UpdateWaterText(_water);
     }
 
@@ -88,6 +88,11 @@ public class CurrencyManager : MonoBehaviour
     }
 
     public int GetSeed() => _seed;
+    public void GetSeedFromCrop()
+    {
+        _seed += 100;
+        _uiManager.UpdateSeedText(_seed);
+    }
     public void SpendSeed(int amount)
     {
         if (_seed >= amount)
