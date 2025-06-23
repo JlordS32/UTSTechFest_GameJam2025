@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 86059410d25cb604188aeb971e5c8a4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8909024419190023426
+    second: Baby Slime 01 48_0
+  - first:
+      213: -8235853863880427895
+    second: Baby Slime 01 48_1
+  - first:
+      213: -6804532585673199206
+    second: Baby Slime 01 48_2
+  - first:
+      213: -863370037736183285
+    second: Baby Slime 01 48_3
+  - first:
+      213: 515966832106885724
+    second: Baby Slime 01 48_4
+  - first:
+      213: -8199661333892924269
+    second: Baby Slime 01 48_5
+  - first:
+      213: 2878080646937364465
+    second: Baby Slime 01 48_6
+  - first:
+      213: -9130773912898106670
+    second: Baby Slime 01 48_7
+  - first:
+      213: 932063199454363793
+    second: Baby Slime 01 48_8
+  - first:
+      213: -8955394124126635188
+    second: Baby Slime 01 48_9
+  - first:
+      213: 6888867440472830704
+    second: Baby Slime 01 48_10
+  - first:
+      213: -7001612975172003126
+    second: Baby Slime 01 48_11
+  - first:
+      213: 6824115735417325506
+    second: Baby Slime 01 48_12
+  - first:
+      213: 7209885249387953900
+    second: Baby Slime 01 48_13
+  - first:
+      213: -7300075160067040791
+    second: Baby Slime 01 48_14
+  - first:
+      213: 1509236161660202936
+    second: Baby Slime 01 48_15
+  - first:
+      213: 2063691075121775743
+    second: Baby Slime 01 48_16
+  - first:
+      213: 2587365248337544218
+    second: Baby Slime 01 48_17
+  - first:
+      213: 1694427412349161808
+    second: Baby Slime 01 48_18
+  - first:
+      213: -5763686191864220583
+    second: Baby Slime 01 48_19
+  - first:
+      213: -6514530970083683898
+    second: Baby Slime 01 48_20
+  - first:
+      213: -5167815761021367929
+    second: Baby Slime 01 48_21
+  - first:
+      213: 701846887617893590
+    second: Baby Slime 01 48_22
+  - first:
+      213: 5918985281008470618
+    second: Baby Slime 01 48_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby Slime 01 48_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 143
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052a19d18633ab70800000000000000
+      internalID: 8909024419190023426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986f065db8e54bd80800000000000000
+      internalID: -8235853863880427895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f0605aa17191a0800000000000000
+      internalID: -6804532585673199206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 143
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ae4076681b404f0800000000000000
+      internalID: -863370037736183285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c525d9f9915192700800000000000000
+      internalID: 515966832106885724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c7ec2e573f43e80800000000000000
+      internalID: -8199661333892924269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7c0a3891ff0f720800000000000000
+      internalID: 2878080646937364465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 95
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da0e4dc089f84180800000000000000
+      internalID: -9130773912898106670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19001b7aa8a5fec00800000000000000
+      internalID: 932063199454363793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bbfc7ed7c08b380800000000000000
+      internalID: -8955394124126635188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f23326307c2a9f50800000000000000
+      internalID: 6888867440472830704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 95
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca5b10681645de90800000000000000
+      internalID: -7001612975172003126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c704bb0b1124be50800000000000000
+      internalID: 6824115735417325506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceef8194f68ae0460800000000000000
+      internalID: 7209885249387953900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e91d82c15ce0ba90800000000000000
+      internalID: -7300075160067040791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf2ee1fa42e1f410800000000000000
+      internalID: 1509236161660202936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7407c25914b3ac10800000000000000
+      internalID: 2063691075121775743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1489532cfa28e320800000000000000
+      internalID: 2587365248337544218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05191ca01c0d38710800000000000000
+      internalID: 1694427412349161808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954fb1122f54300b0800000000000000
+      internalID: -5763686191864220583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c191e1299cb795a0800000000000000
+      internalID: -6514530970083683898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78908a312fa3848b0800000000000000
+      internalID: -5167815761021367929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49d2796067db900800000000000000
+      internalID: 701846887617893590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Slime 01 48_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a8641c0c5742250800000000000000
+      internalID: 5918985281008470618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baby Slime 01 48_0: 8909024419190023426
+      Baby Slime 01 48_1: -8235853863880427895
+      Baby Slime 01 48_10: 6888867440472830704
+      Baby Slime 01 48_11: -7001612975172003126
+      Baby Slime 01 48_12: 6824115735417325506
+      Baby Slime 01 48_13: 7209885249387953900
+      Baby Slime 01 48_14: -7300075160067040791
+      Baby Slime 01 48_15: 1509236161660202936
+      Baby Slime 01 48_16: 2063691075121775743
+      Baby Slime 01 48_17: 2587365248337544218
+      Baby Slime 01 48_18: 1694427412349161808
+      Baby Slime 01 48_19: -5763686191864220583
+      Baby Slime 01 48_2: -6804532585673199206
+      Baby Slime 01 48_20: -6514530970083683898
+      Baby Slime 01 48_21: -5167815761021367929
+      Baby Slime 01 48_22: 701846887617893590
+      Baby Slime 01 48_23: 5918985281008470618
+      Baby Slime 01 48_3: -863370037736183285
+      Baby Slime 01 48_4: 515966832106885724
+      Baby Slime 01 48_5: -8199661333892924269
+      Baby Slime 01 48_6: 2878080646937364465
+      Baby Slime 01 48_7: -9130773912898106670
+      Baby Slime 01 48_8: 932063199454363793
+      Baby Slime 01 48_9: -8955394124126635188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
