@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 282cd9a87644c68428733ac7d49deac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -551224890926685453
+    second: Fungus 04 48_0
+  - first:
+      213: -4841081536483381224
+    second: Fungus 04 48_1
+  - first:
+      213: 2999079551363179271
+    second: Fungus 04 48_2
+  - first:
+      213: 708467437353902247
+    second: Fungus 04 48_3
+  - first:
+      213: 2873250689422561145
+    second: Fungus 04 48_4
+  - first:
+      213: -8071300081138119787
+    second: Fungus 04 48_5
+  - first:
+      213: 4129752549510040803
+    second: Fungus 04 48_6
+  - first:
+      213: -9152154886099043356
+    second: Fungus 04 48_7
+  - first:
+      213: 5238305237165199541
+    second: Fungus 04 48_8
+  - first:
+      213: 33469233220346970
+    second: Fungus 04 48_9
+  - first:
+      213: 6508560908999568243
+    second: Fungus 04 48_10
+  - first:
+      213: -3186056458415857743
+    second: Fungus 04 48_11
+  - first:
+      213: 907308860838525306
+    second: Fungus 04 48_12
+  - first:
+      213: 1281153478395549460
+    second: Fungus 04 48_13
+  - first:
+      213: 4140205078337394092
+    second: Fungus 04 48_14
+  - first:
+      213: 4608006084977425620
+    second: Fungus 04 48_15
+  - first:
+      213: 6912746084367422337
+    second: Fungus 04 48_16
+  - first:
+      213: -4578318297311851580
+    second: Fungus 04 48_17
+  - first:
+      213: 4434214915386842357
+    second: Fungus 04 48_18
+  - first:
+      213: -6221484558860954654
+    second: Fungus 04 48_19
+  - first:
+      213: 8120407895475426315
+    second: Fungus 04 48_20
+  - first:
+      213: 1503517650431350187
+    second: Fungus 04 48_21
+  - first:
+      213: -7996450169451256387
+    second: Fungus 04 48_22
+  - first:
+      213: 2369950157308034258
+    second: Fungus 04 48_23
+  - first:
+      213: 4099832235519764896
+    second: Fungus 04 48_24
+  - first:
+      213: 7397998959233473018
+    second: Fungus 04 48_25
+  - first:
+      213: 2671906979785697280
+    second: Fungus 04 48_26
+  - first:
+      213: -7589712380156127849
+    second: Fungus 04 48_27
+  - first:
+      213: 1477940843342413061
+    second: Fungus 04 48_28
+  - first:
+      213: 4578760961230141933
+    second: Fungus 04 48_29
+  - first:
+      213: -7017920295644971734
+    second: Fungus 04 48_30
+  - first:
+      213: -7077173491780840712
+    second: Fungus 04 48_31
+  - first:
+      213: -143316837108977948
+    second: Fungus 04 48_32
+  - first:
+      213: 6816488656149909530
+    second: Fungus 04 48_33
+  - first:
+      213: 8790948174471524834
+    second: Fungus 04 48_34
+  - first:
+      213: 2087814996688727022
+    second: Fungus 04 48_35
+  - first:
+      213: 2619945564379799057
+    second: Fungus 04 48_36
+  - first:
+      213: 6330852803230195459
+    second: Fungus 04 48_37
+  - first:
+      213: 8897762243764585517
+    second: Fungus 04 48_38
+  - first:
+      213: 6596796718568810359
+    second: Fungus 04 48_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fungus 04 48_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f226f8d1e7a958f0800000000000000
+      internalID: -551224890926685453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b431edf501dcb0800000000000000
+      internalID: -4841081536483381224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703e32056fede9920800000000000000
+      internalID: 2999079551363179271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 335
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a02962716bf4d900800000000000000
+      internalID: 708467437353902247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 335
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f8da56746dfd720800000000000000
+      internalID: 2873250689422561145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 335
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b4e2cf65bfcff80800000000000000
+      internalID: -8071300081138119787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4fcb3014df4930800000000000000
+      internalID: 4129752549510040803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebf5bc0f930df080800000000000000
+      internalID: -9152154886099043356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0dc460cd232b840800000000000000
+      internalID: 5238305237165199541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54e00d1718e67000800000000000000
+      internalID: 33469233220346970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ba9e3b9ad035a50800000000000000
+      internalID: 6508560908999568243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf98c1188ad8c3d0800000000000000
+      internalID: -3186056458415857743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7938df0a98679c00800000000000000
+      internalID: 907308860838525306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417d58efc4297c110800000000000000
+      internalID: 1281153478395549460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5919f3596f47930800000000000000
+      internalID: 4140205078337394092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcfae9be1de2ff30800000000000000
+      internalID: 4608006084977425620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 239
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183513d30f10fef50800000000000000
+      internalID: 6912746084367422337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 239
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb4e0cf3cb8670c0800000000000000
+      internalID: -4578318297311851580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc1f59d8fe798d30800000000000000
+      internalID: 4434214915386842357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3d38da1c8d8a9a0800000000000000
+      internalID: -6221484558860954654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04171905fb71b070800000000000000
+      internalID: 8120407895475426315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba59d7b46519dd410800000000000000
+      internalID: 1503517650431350187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 191
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5eeb910f6e60190800000000000000
+      internalID: -7996450169451256387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf9bd8c11c3e020800000000000000
+      internalID: 2369950157308034258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9e9d442b785e830800000000000000
+      internalID: 4099832235519764896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af912dd6bd8faa660800000000000000
+      internalID: 7397998959233473018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0086303ed35841520800000000000000
+      internalID: 2671906979785697280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795d8616dcceba690800000000000000
+      internalID: -7589712380156127849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3776dd53b28410800000000000000
+      internalID: 1477940843342413061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de97c8db5d60b8f30800000000000000
+      internalID: 4578760961230141933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2db3147ca65b9e90800000000000000
+      internalID: -7017920295644971734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 95
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29798a434d8cd90800000000000000
+      internalID: -7077173491780840712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee69c19816d20ef0800000000000000
+      internalID: -143316837108977948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a109b454158099e50800000000000000
+      internalID: 6816488656149909530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e17e3ac9c8bff970800000000000000
+      internalID: 8790948174471524834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb6d528da869fc10800000000000000
+      internalID: 2087814996688727022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed7b71c9aeb5420800000000000000
+      internalID: 2619945564379799057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f52dd0515bbd750800000000000000
+      internalID: 6330852803230195459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24887b4e933b7b70800000000000000
+      internalID: 8897762243764585517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 04 48_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a1c90aa78c8b50800000000000000
+      internalID: 6596796718568810359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fungus 04 48_0: -551224890926685453
+      Fungus 04 48_1: -4841081536483381224
+      Fungus 04 48_10: 6508560908999568243
+      Fungus 04 48_11: -3186056458415857743
+      Fungus 04 48_12: 907308860838525306
+      Fungus 04 48_13: 1281153478395549460
+      Fungus 04 48_14: 4140205078337394092
+      Fungus 04 48_15: 4608006084977425620
+      Fungus 04 48_16: 6912746084367422337
+      Fungus 04 48_17: -4578318297311851580
+      Fungus 04 48_18: 4434214915386842357
+      Fungus 04 48_19: -6221484558860954654
+      Fungus 04 48_2: 2999079551363179271
+      Fungus 04 48_20: 8120407895475426315
+      Fungus 04 48_21: 1503517650431350187
+      Fungus 04 48_22: -7996450169451256387
+      Fungus 04 48_23: 2369950157308034258
+      Fungus 04 48_24: 4099832235519764896
+      Fungus 04 48_25: 7397998959233473018
+      Fungus 04 48_26: 2671906979785697280
+      Fungus 04 48_27: -7589712380156127849
+      Fungus 04 48_28: 1477940843342413061
+      Fungus 04 48_29: 4578760961230141933
+      Fungus 04 48_3: 708467437353902247
+      Fungus 04 48_30: -7017920295644971734
+      Fungus 04 48_31: -7077173491780840712
+      Fungus 04 48_32: -143316837108977948
+      Fungus 04 48_33: 6816488656149909530
+      Fungus 04 48_34: 8790948174471524834
+      Fungus 04 48_35: 2087814996688727022
+      Fungus 04 48_36: 2619945564379799057
+      Fungus 04 48_37: 6330852803230195459
+      Fungus 04 48_38: 8897762243764585517
+      Fungus 04 48_39: 6596796718568810359
+      Fungus 04 48_4: 2873250689422561145
+      Fungus 04 48_5: -8071300081138119787
+      Fungus 04 48_6: 4129752549510040803
+      Fungus 04 48_7: -9152154886099043356
+      Fungus 04 48_8: 5238305237165199541
+      Fungus 04 48_9: 33469233220346970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

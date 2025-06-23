@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: fc6030e61f1108743b6fff865c5a7d0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6770693226138304942
+    second: Snake 03 48_0
+  - first:
+      213: -3688285623653150644
+    second: Snake 03 48_1
+  - first:
+      213: 5804061748530374614
+    second: Snake 03 48_2
+  - first:
+      213: -4983191153389043454
+    second: Snake 03 48_3
+  - first:
+      213: -3551806604271017368
+    second: Snake 03 48_4
+  - first:
+      213: -3517476866721131066
+    second: Snake 03 48_5
+  - first:
+      213: -8074624694501242147
+    second: Snake 03 48_6
+  - first:
+      213: 7119511748814104335
+    second: Snake 03 48_7
+  - first:
+      213: -3352488828357565119
+    second: Snake 03 48_8
+  - first:
+      213: 1075989056807138035
+    second: Snake 03 48_9
+  - first:
+      213: 1856142743745560384
+    second: Snake 03 48_10
+  - first:
+      213: -4736202737372685451
+    second: Snake 03 48_11
+  - first:
+      213: -1828942801383796901
+    second: Snake 03 48_12
+  - first:
+      213: -6332008263815657601
+    second: Snake 03 48_13
+  - first:
+      213: 7136736591366545492
+    second: Snake 03 48_14
+  - first:
+      213: 2309479329813514252
+    second: Snake 03 48_15
+  - first:
+      213: -4825139596683469131
+    second: Snake 03 48_16
+  - first:
+      213: 6840338693618754632
+    second: Snake 03 48_17
+  - first:
+      213: 5012892447866906354
+    second: Snake 03 48_18
+  - first:
+      213: -128998065734941975
+    second: Snake 03 48_19
+  - first:
+      213: 781448222035326359
+    second: Snake 03 48_20
+  - first:
+      213: -6965253364254986275
+    second: Snake 03 48_21
+  - first:
+      213: 667498624242090463
+    second: Snake 03 48_22
+  - first:
+      213: -7810901555119863009
+    second: Snake 03 48_23
+  - first:
+      213: -1665741506485339051
+    second: Snake 03 48_24
+  - first:
+      213: 5985533835533328084
+    second: Snake 03 48_25
+  - first:
+      213: 5065714445427790813
+    second: Snake 03 48_26
+  - first:
+      213: 3397914538297625579
+    second: Snake 03 48_27
+  - first:
+      213: -8902506732749886352
+    second: Snake 03 48_28
+  - first:
+      213: 5053821488842486829
+    second: Snake 03 48_29
+  - first:
+      213: 5322970289932005125
+    second: Snake 03 48_30
+  - first:
+      213: 197129002109068823
+    second: Snake 03 48_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snake 03 48_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10e13dd9556fd50800000000000000
+      internalID: 6770693226138304942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 335
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4059f344c390dcc0800000000000000
+      internalID: -3688285623653150644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 335
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e597b86b2c8050800000000000000
+      internalID: 5804061748530374614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201806e4c0628dab0800000000000000
+      internalID: -4983191153389043454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 335
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622a8136b275bec0800000000000000
+      internalID: -3551806604271017368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 335
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5de651d696f2fc0800000000000000
+      internalID: -3517476866721131066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda08ad1f9b21ff80800000000000000
+      internalID: -8074624694501242147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e84af6369dc260800000000000000
+      internalID: 7119511748814104335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14528404c219971d0800000000000000
+      internalID: -3352488828357565119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f27239a85eaeee00800000000000000
+      internalID: 1075989056807138035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f7f5dbdf752c910800000000000000
+      internalID: 1856142743745560384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 287
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b1bae24b0a54eb0800000000000000
+      internalID: -4736202737372685451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fc209563a4e96e0800000000000000
+      internalID: -1828942801383796901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 239
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f770e6058003028a0800000000000000
+      internalID: -6332008263815657601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 239
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4506fe72e18ca0360800000000000000
+      internalID: 7136736591366545492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 194
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0844add63bec0020800000000000000
+      internalID: 2309479329813514252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be920cf919a90db0800000000000000
+      internalID: -4825139596683469131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 194
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8446188dcc3cdee50800000000000000
+      internalID: 6840338693618754632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f668543f1f519540800000000000000
+      internalID: 5012892447866906354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2082351f4b53ef0800000000000000
+      internalID: -128998065734941975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795b6c4840348da00800000000000000
+      internalID: 781448222035326359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 143
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfacfcf7f2765f90800000000000000
+      internalID: -6965253364254986275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd10302567e634900800000000000000
+      internalID: 667498624242090463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 143
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc8876b6a1a9390800000000000000
+      internalID: -7810901555119863009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c3152ece812e8e0800000000000000
+      internalID: -1665741506485339051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9b0a8f43e01350800000000000000
+      internalID: 5985533835533328084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d945e2780d4640800000000000000
+      internalID: 5065714445427790813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8d580541d72f20800000000000000
+      internalID: 3397914538297625579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 143
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6be74b41f37480800000000000000
+      internalID: -8902506732749886352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2431b82ed7c22640800000000000000
+      internalID: 5053821488842486829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fea51c64dfed940800000000000000
+      internalID: 5322970289932005125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake 03 48_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71663a178c75cb200800000000000000
+      internalID: 197129002109068823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Snake 03 48_0: 6770693226138304942
+      Snake 03 48_1: -3688285623653150644
+      Snake 03 48_10: 1856142743745560384
+      Snake 03 48_11: -4736202737372685451
+      Snake 03 48_12: -1828942801383796901
+      Snake 03 48_13: -6332008263815657601
+      Snake 03 48_14: 7136736591366545492
+      Snake 03 48_15: 2309479329813514252
+      Snake 03 48_16: -4825139596683469131
+      Snake 03 48_17: 6840338693618754632
+      Snake 03 48_18: 5012892447866906354
+      Snake 03 48_19: -128998065734941975
+      Snake 03 48_2: 5804061748530374614
+      Snake 03 48_20: 781448222035326359
+      Snake 03 48_21: -6965253364254986275
+      Snake 03 48_22: 667498624242090463
+      Snake 03 48_23: -7810901555119863009
+      Snake 03 48_24: -1665741506485339051
+      Snake 03 48_25: 5985533835533328084
+      Snake 03 48_26: 5065714445427790813
+      Snake 03 48_27: 3397914538297625579
+      Snake 03 48_28: -8902506732749886352
+      Snake 03 48_29: 5053821488842486829
+      Snake 03 48_3: -4983191153389043454
+      Snake 03 48_30: 5322970289932005125
+      Snake 03 48_31: 197129002109068823
+      Snake 03 48_4: -3551806604271017368
+      Snake 03 48_5: -3517476866721131066
+      Snake 03 48_6: -8074624694501242147
+      Snake 03 48_7: 7119511748814104335
+      Snake 03 48_8: -3352488828357565119
+      Snake 03 48_9: 1075989056807138035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

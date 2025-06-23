@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 37966be792369744787113484994e8d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6447501891719485315
+    second: Fungus 01 32_0
+  - first:
+      213: -4443423365513181813
+    second: Fungus 01 32_1
+  - first:
+      213: -7878847763580632123
+    second: Fungus 01 32_2
+  - first:
+      213: -2918975501062041377
+    second: Fungus 01 32_3
+  - first:
+      213: -7702048197759158565
+    second: Fungus 01 32_4
+  - first:
+      213: -4163142305720808051
+    second: Fungus 01 32_5
+  - first:
+      213: 8929927454101332708
+    second: Fungus 01 32_6
+  - first:
+      213: -5104227300751404229
+    second: Fungus 01 32_7
+  - first:
+      213: -2692795679546158081
+    second: Fungus 01 32_8
+  - first:
+      213: -1064143565656844345
+    second: Fungus 01 32_9
+  - first:
+      213: 6205913543443890770
+    second: Fungus 01 32_10
+  - first:
+      213: -266902123243501791
+    second: Fungus 01 32_11
+  - first:
+      213: 1469667440372271197
+    second: Fungus 01 32_12
+  - first:
+      213: 7352529684246914179
+    second: Fungus 01 32_13
+  - first:
+      213: -8149549628045304969
+    second: Fungus 01 32_14
+  - first:
+      213: -7696274319010246099
+    second: Fungus 01 32_15
+  - first:
+      213: -1325986021447643401
+    second: Fungus 01 32_16
+  - first:
+      213: -231651954693792126
+    second: Fungus 01 32_17
+  - first:
+      213: -4809062598262274843
+    second: Fungus 01 32_18
+  - first:
+      213: 4701878958098167456
+    second: Fungus 01 32_19
+  - first:
+      213: -2815516374884238621
+    second: Fungus 01 32_20
+  - first:
+      213: 2413774877110052170
+    second: Fungus 01 32_21
+  - first:
+      213: 1802620911840945782
+    second: Fungus 01 32_22
+  - first:
+      213: 8661899170600965349
+    second: Fungus 01 32_23
+  - first:
+      213: -8779984720257924750
+    second: Fungus 01 32_24
+  - first:
+      213: -1750738029874629004
+    second: Fungus 01 32_25
+  - first:
+      213: -3537141717683365320
+    second: Fungus 01 32_26
+  - first:
+      213: -5469030498834725319
+    second: Fungus 01 32_27
+  - first:
+      213: 3477138596436889936
+    second: Fungus 01 32_28
+  - first:
+      213: 3783959875697087981
+    second: Fungus 01 32_29
+  - first:
+      213: 1853126775252393275
+    second: Fungus 01 32_30
+  - first:
+      213: 977933452835841754
+    second: Fungus 01 32_31
+  - first:
+      213: 2034461942111781095
+    second: Fungus 01 32_32
+  - first:
+      213: -7083495897912515257
+    second: Fungus 01 32_33
+  - first:
+      213: 3402872551417604495
+    second: Fungus 01 32_34
+  - first:
+      213: -8118667497809880569
+    second: Fungus 01 32_35
+  - first:
+      213: 4174453816647227934
+    second: Fungus 01 32_36
+  - first:
+      213: -8062341466802754342
+    second: Fungus 01 32_37
+  - first:
+      213: 835528101846326402
+    second: Fungus 01 32_38
+  - first:
+      213: -8012088398547080681
+    second: Fungus 01 32_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fungus 01 32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78a667903fd586a0800000000000000
+      internalID: -6447501891719485315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b858ae7cdf9c552c0800000000000000
+      internalID: -4443423365513181813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c34564f3b5b8a290800000000000000
+      internalID: -7878847763580632123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd011274f37bd77d0800000000000000
+      internalID: -2918975501062041377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b0a9a8f3dc1590800000000000000
+      internalID: -7702048197759158565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d4c16512c8936c0800000000000000
+      internalID: -4163142305720808051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e7bbe4b97deb70800000000000000
+      internalID: 8929927454101332708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b339cd530542a29b0800000000000000
+      internalID: -5104227300751404229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d1f3b89441aad0800000000000000
+      internalID: -2692795679546158081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7910ba0176b31f0800000000000000
+      internalID: -1064143565656844345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25242c7cc75df1650800000000000000
+      internalID: 6205913543443890770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127064adee5cb4cf0800000000000000
+      internalID: -266902123243501791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c85910ce456410800000000000000
+      internalID: 1469667440372271197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846d0edace690660800000000000000
+      internalID: 7352529684246914179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b51fc9acbf6ee80800000000000000
+      internalID: -8149549628045304969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22de619847513590800000000000000
+      internalID: -7696274319010246099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feca762db6299de0800000000000000
+      internalID: -1325986021447643401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e93f846c109ccf0800000000000000
+      internalID: -231651954693792126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c5ffdb07c24db0800000000000000
+      internalID: -4809062598262274843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63352300e604140800000000000000
+      internalID: 4701878958098167456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eabab736c64de8d0800000000000000
+      internalID: -2815516374884238621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4528e546737f7120800000000000000
+      internalID: 2413774877110052170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67668fa2b22340910800000000000000
+      internalID: 1802620911840945782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4dbe7276f353870800000000000000
+      internalID: 8661899170600965349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2714baf4a6a372680800000000000000
+      internalID: -8779984720257924750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763e82a90124b7e0800000000000000
+      internalID: -1750738029874629004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a944d295c89eec0800000000000000
+      internalID: -3537141717683365320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936cd2bccb91a14b0800000000000000
+      internalID: -5469030498834725319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051db6b7127414030800000000000000
+      internalID: 3477138596436889936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5914b6573538430800000000000000
+      internalID: 3783959875697087981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d1faadbf0a7b910800000000000000
+      internalID: 1853126775252393275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad660464b41529d00800000000000000
+      internalID: 977933452835841754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0cf987b5cdb3c10800000000000000
+      internalID: 2034461942111781095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745ecf4c20e52bd90800000000000000
+      internalID: -7083495897912515257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f896c2b6e8e693f20800000000000000
+      internalID: 3402872551417604495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a588fdce2b45f80800000000000000
+      internalID: -8118667497809880569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a188801a3aee930800000000000000
+      internalID: 4174453816647227934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce15de62fcc1090800000000000000
+      internalID: -8062341466802754342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c186eb164689b00800000000000000
+      internalID: 835528101846326402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fungus 01 32_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aa2972d085fc090800000000000000
+      internalID: -8012088398547080681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fungus 01 32_0: -6447501891719485315
+      Fungus 01 32_1: -4443423365513181813
+      Fungus 01 32_10: 6205913543443890770
+      Fungus 01 32_11: -266902123243501791
+      Fungus 01 32_12: 1469667440372271197
+      Fungus 01 32_13: 7352529684246914179
+      Fungus 01 32_14: -8149549628045304969
+      Fungus 01 32_15: -7696274319010246099
+      Fungus 01 32_16: -1325986021447643401
+      Fungus 01 32_17: -231651954693792126
+      Fungus 01 32_18: -4809062598262274843
+      Fungus 01 32_19: 4701878958098167456
+      Fungus 01 32_2: -7878847763580632123
+      Fungus 01 32_20: -2815516374884238621
+      Fungus 01 32_21: 2413774877110052170
+      Fungus 01 32_22: 1802620911840945782
+      Fungus 01 32_23: 8661899170600965349
+      Fungus 01 32_24: -8779984720257924750
+      Fungus 01 32_25: -1750738029874629004
+      Fungus 01 32_26: -3537141717683365320
+      Fungus 01 32_27: -5469030498834725319
+      Fungus 01 32_28: 3477138596436889936
+      Fungus 01 32_29: 3783959875697087981
+      Fungus 01 32_3: -2918975501062041377
+      Fungus 01 32_30: 1853126775252393275
+      Fungus 01 32_31: 977933452835841754
+      Fungus 01 32_32: 2034461942111781095
+      Fungus 01 32_33: -7083495897912515257
+      Fungus 01 32_34: 3402872551417604495
+      Fungus 01 32_35: -8118667497809880569
+      Fungus 01 32_36: 4174453816647227934
+      Fungus 01 32_37: -8062341466802754342
+      Fungus 01 32_38: 835528101846326402
+      Fungus 01 32_39: -8012088398547080681
+      Fungus 01 32_4: -7702048197759158565
+      Fungus 01 32_5: -4163142305720808051
+      Fungus 01 32_6: 8929927454101332708
+      Fungus 01 32_7: -5104227300751404229
+      Fungus 01 32_8: -2692795679546158081
+      Fungus 01 32_9: -1064143565656844345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
