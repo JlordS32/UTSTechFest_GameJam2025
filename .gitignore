@@ -99,3 +99,7 @@ sysinfo.txt
 
 # Builds
 *.apk
+
+# Changes
+**/*.aseprite
+Assets/Sprites/Premium/
