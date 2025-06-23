@@ -3,27 +3,26 @@ using UnityEngine;
 
 public class UpgradePanelUI : MonoBehaviour
 {
-    [SerializeField] UpgradeData _upgrades;
     [SerializeField] GameObject _upgradeComponent;
 
-    void OnEnable()
+    public void Build(List<UpgradeEntry> entries)
     {
-        Refresh();
-    }
-
-    public void Refresh()
-    {
-        // Destroy any existing UI elements.
         foreach (Transform child in transform)
-        {
             Destroy(child.gameObject);
-        }
 
-        // Add new ones
-        foreach (var data in _upgrades.upgrades)
+        foreach (var entry in entries)
         {
             GameObject go = Instantiate(_upgradeComponent, transform);
-            go.GetComponent<UpgradeUI>().Setup(data.UpgradeName, data.UpgradeRate, data.OnUpgrade.Invoke);
+            var ui = go.GetComponent<UpgradeUI>();
+            entry.UIRef = ui;
+
+            ui.Setup(entry.Name, () =>
+            {
+                entry.UpgradeLogic.Invoke();
+                ui.SetRate(entry.GetRate.Invoke());
+            });
+
+            ui.SetRate(entry.GetRate.Invoke());
         }
     }
 }
