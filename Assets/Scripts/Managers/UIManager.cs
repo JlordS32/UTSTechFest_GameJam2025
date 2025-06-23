@@ -13,7 +13,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI _sunlightTextUI;
     [SerializeField] TextMeshProUGUI _seedTextUI;
 
-    void Start()
+    void InitialUpgrades()
     {
         CurrencyManager _currencyManager = GetComponent<CurrencyManager>();
         if (_currencyManager == null)
@@ -26,39 +26,11 @@ public class UIManager : MonoBehaviour
         {
             _currencyManager.IncreaseWaterRate();
         });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
-        AddUpgrade("Dowee", () =>
-        {
-            Debug.Log("Hello World");
-        });
+    }
 
+    void Start()
+    {
+        InitialUpgrades();
         _upgradePanel?.Refresh();
     }
 
