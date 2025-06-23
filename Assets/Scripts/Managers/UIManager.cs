@@ -26,6 +26,38 @@ public class UIManager : MonoBehaviour
         {
             _currencyManager.IncreaseWaterRate();
         });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
+        AddUpgrade("Dowee", () =>
+        {
+            Debug.Log("Hello World");
+        });
 
         _upgradePanel?.Refresh();
     }
