@@ -13,10 +13,15 @@ public class PlantGrow : MonoBehaviour
     [Header("Level")]
     [SerializeField] int _levelGap;
 
+    [Header("Audio")]
+    [SerializeField] AudioClip _levelUpSound;
+    [SerializeField] AudioClip _growUpSound;
+
     // VARIABLES
     GameObject _currentSprite;
     CurrencyManager _currencyManager;
     int _lastKnownLevel = -1;
+    int _lastKnownIndex = -1;
 
     void Start()
     {
@@ -29,6 +34,8 @@ public class PlantGrow : MonoBehaviour
     {
         if (_playerData.LVL != _lastKnownLevel)
         {
+            if (_lastKnownLevel > 1) 
+                AudioManager.Instance.PlaySound(_levelUpSound);
             _lastKnownLevel = _playerData.LVL;
             UpdateSprite();
         }
@@ -37,6 +44,12 @@ public class PlantGrow : MonoBehaviour
     void UpdateSprite()
     {
         int index = Mathf.Clamp((_playerData.LVL - 1) / _levelGap, 0, _levelPrefabs.Count - 1);
+        _lastKnownIndex = index;
+
+        if (index != _lastKnownIndex && index > 0)
+        {
+            AudioManager.Instance.PlaySound(_growUpSound);
+        }
 
         if (_currentSprite != null)
             Destroy(_currentSprite);

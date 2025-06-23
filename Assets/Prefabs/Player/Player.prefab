@@ -129,7 +129,9 @@ MonoBehaviour:
   - {fileID: 3685437499988625892, guid: e717a9afe1e7d7a418c313a7e966a20d, type: 3}
   - {fileID: 3898203081512859343, guid: 3535dbcb49f0cc04f9a99c5926362223, type: 3}
   _spriteParent: {fileID: 5629177306146041244}
-  _levelGap: 1
+  _levelGap: 5
+  _levelUpSound: {fileID: 8300000, guid: e828033447413344c809c33ac5cd75c5, type: 3}
+  _growUpSound: {fileID: 8300000, guid: 83f204991fc067b44ad45022286b8b8d, type: 3}
 --- !u!61 &5545265021587082298
 BoxCollider2D:
   m_ObjectHideFlags: 0
