@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5034133077521071069}
   - component: {fileID: 699117181156822565}
+  - component: {fileID: 8203316594294222967}
   m_Layer: 0
   m_Name: UIManager
   m_TagString: Untagged
@@ -44,4 +45,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fb39f5a0f93e4d4782860ac0068d1a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _text: {fileID: 0}
+  _myUpgradeData: {fileID: 11400000, guid: d763ebc622f439b42ae5f3be8efd9673, type: 2}
+  _upgradePanel: {fileID: 0}
+  _waterTextUI: {fileID: 0}
+  _sunlightTextUI: {fileID: 0}
+  _seedTextUI: {fileID: 0}
+--- !u!114 &8203316594294222967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 618547456199796932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8522cf11a749543906dfb2b12acf53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _interval: 3
+  _waterPerTick: 5
+  _sunlightPerTick: 5
+  _seedPerTick: 5
