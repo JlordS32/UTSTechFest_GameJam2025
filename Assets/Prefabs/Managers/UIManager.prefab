@@ -49,6 +49,8 @@ MonoBehaviour:
   _waterTextUI: {fileID: 0}
   _sunlightTextUI: {fileID: 0}
   _seedTextUI: {fileID: 0}
+  _levelTextUI: {fileID: 0}
+  _expTextUI: {fileID: 0}
 --- !u!114 &8203316594294222967
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70,10 +72,10 @@ MonoBehaviour:
   _consumptionPerClick: 1
   _tickMultiplier: 1
   _clickMultiplier: 1
-  _waterPerClickUpgrade: 1.5
   _waterPerTickUpgrade: 1.5
+  _seedPerTickUpgrade: 1.5
+  _waterPerClickUpgrade: 1.2
   _seedPerClickUpgrade: 1.2
-  _seedPerTickUpgrade: 1.2
   _consumptionRateUpgrade: 1.2
   _baseCost: 2
   _multiplier: 1.5

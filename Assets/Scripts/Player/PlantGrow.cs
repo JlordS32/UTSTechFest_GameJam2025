@@ -34,6 +34,11 @@ public class PlantGrow : MonoBehaviour
         UpdateSprite();
     }
 
+    public void OnTest()
+    {
+        _playerData.AddEXP(10);
+    }
+
     void Update()
     {
         if (_playerData.LVL != _lastKnownLevel)
@@ -41,6 +46,9 @@ public class PlantGrow : MonoBehaviour
             if (_lastKnownLevel > 1)
                 AudioManager.Instance.PlaySound(_levelUpSound);
             _lastKnownLevel = _playerData.LVL;
+            _currencyManager.IncreaseMultiplier();
+            Debug.Log(_currencyManager.TickMultiplier());
+            Debug.Log(_currencyManager.ClickMultiplier());
             _uiManager.UpdateLevelText(_playerData.LVL);
             UpdateSprite();
         }

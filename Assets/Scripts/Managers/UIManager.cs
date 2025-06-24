@@ -20,6 +20,8 @@ public class UIManager : MonoBehaviour
 
     List<UpgradeEntry> _entries = new();
 
+    AudioManager _audioManager;
+
     void Start()
     {
         var currency = GetComponent<CurrencyManager>();
