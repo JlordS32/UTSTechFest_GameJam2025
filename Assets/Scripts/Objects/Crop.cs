@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Crop : MonoBehaviour
 {
+    [SerializeField] AudioClip _collectSeedSound;
     CurrencyManager _seedManager;
 
     void Awake()
@@ -11,6 +12,7 @@ public class Crop : MonoBehaviour
 
     void OnMouseDown()
     {
+        AudioManager.Instance.PlaySound(_collectSeedSound);
         CropIsPressed();
     }
 

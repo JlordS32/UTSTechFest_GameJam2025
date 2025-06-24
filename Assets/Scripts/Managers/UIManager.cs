@@ -14,6 +14,10 @@ public class UIManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI _sunlightTextUI;
     [SerializeField] TextMeshProUGUI _seedTextUI;
 
+    [Header("Level UI")]
+    [SerializeField] TextMeshProUGUI _levelTextUI;
+    [SerializeField] TextMeshProUGUI _expTextUI;
+
     List<UpgradeEntry> _entries = new();
 
     void Start()
@@ -68,16 +72,26 @@ public class UIManager : MonoBehaviour
 
     public void UpdateWaterText(float value)
     {
-        _waterTextUI.text = $"Water: {value:F2}";
+        _waterTextUI.text = $"Water: {NumberFormatter.Format(value)}";
     }
 
     public void UpdateSunlightText(float value)
     {
-        _sunlightTextUI.text = $"Sunlight: {value:F2}";
+        _sunlightTextUI.text = $"Sunlight: {NumberFormatter.Format(value)}";
     }
 
     public void UpdateSeedText(float value)
     {
-        _seedTextUI.text = $"Seed: {value:F2}";
+        _seedTextUI.text = $"Seed: {NumberFormatter.Format(value)}";
+    }
+
+    public void UpdateLevelText(int value)
+    {
+        _levelTextUI.text = $"Level: {NumberFormatter.Format(value)}";
+    }
+
+    public void UpdateExpText(float value, float cap)
+    {
+        _expTextUI.text = $"EXP: {NumberFormatter.Format(value)} / {NumberFormatter.Format(cap)}";
     }
 }

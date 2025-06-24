@@ -10,11 +10,13 @@ public class HoverFollowSprite : MonoBehaviour
 
     void OnMouseEnter()
     {
+        Debug.Log("entering");
         if (followSprite != null)
         {
             followingObject = new GameObject("FollowSprite");
             SpriteRenderer spriteRenderer = followingObject.AddComponent<SpriteRenderer>();
             spriteRenderer.sprite = followSprite;
+            spriteRenderer.sortingLayerName = "foreground";
             spriteRenderer.sortingOrder = 100;
             followingObject.transform.position = transform.position + Vector3.forward * spriteDepth;
             followingObject.transform.rotation = Quaternion.Euler(0, 0, angleZ); // angled the sprite

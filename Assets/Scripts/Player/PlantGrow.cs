@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlantGrow : MonoBehaviour
@@ -16,16 +17,19 @@ public class PlantGrow : MonoBehaviour
     [Header("Audio")]
     [SerializeField] AudioClip _levelUpSound;
     [SerializeField] AudioClip _growUpSound;
+    [SerializeField] AudioClip _waterPlantSound;
 
     // VARIABLES
     GameObject _currentSprite;
     CurrencyManager _currencyManager;
+    UIManager _uiManager;
     int _lastKnownLevel = -1;
     int _lastKnownIndex = -1;
 
     void Start()
     {
         _currencyManager = FindFirstObjectByType<CurrencyManager>();
+        _uiManager =  FindFirstObjectByType<UIManager>();
         _playerData.ResetData();
         UpdateSprite();
     }
@@ -34,9 +38,10 @@ public class PlantGrow : MonoBehaviour
     {
         if (_playerData.LVL != _lastKnownLevel)
         {
-            if (_lastKnownLevel > 1) 
+            if (_lastKnownLevel > 1)
                 AudioManager.Instance.PlaySound(_levelUpSound);
             _lastKnownLevel = _playerData.LVL;
+            _uiManager.UpdateLevelText(_playerData.LVL);
             UpdateSprite();
         }
     }
@@ -59,7 +64,7 @@ public class PlantGrow : MonoBehaviour
 
     void OnMouseDown()
     {
-        Debug.Log("Water plant");
+        AudioManager.Instance.PlaySound(_waterPlantSound);
         WaterPlant();
     }
 
@@ -68,6 +73,7 @@ public class PlantGrow : MonoBehaviour
         if (_currencyManager.SpendWater() && _currencyManager.SpendSeed())
         {
             _playerData.AddEXP(_currencyManager.GetConsumptionRate() * 1.5f);
+            _uiManager.UpdateExpText(_playerData.EXP, _playerData.GetRequiredEXP(_playerData.LVL));
         }
     }
 }

@@ -62,11 +62,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _interval: 1
-  _waterPerTick: 2
-  _sunlightPerTick: 2
-  _seedPerTick: 2
-  _waterPerClick: 0.5
-  _seedPerClick: 0.5
+  _waterPerTick: 0.5
+  _sunlightPerTick: 0.5
+  _seedPerTick: 0.5
+  _waterPerClick: 0.125
+  _seedPerClick: 0.125
   _consumptionPerClick: 1
   _tickMultiplier: 1
   _clickMultiplier: 1
@@ -75,3 +75,5 @@ MonoBehaviour:
   _seedPerClickUpgrade: 1.2
   _seedPerTickUpgrade: 1.2
   _consumptionRateUpgrade: 1.2
+  _baseCost: 2
+  _multiplier: 1.5
