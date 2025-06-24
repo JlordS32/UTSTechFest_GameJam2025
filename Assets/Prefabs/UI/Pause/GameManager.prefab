@@ -51,6 +51,14 @@ MonoBehaviour:
     m_Id: e8f2b208-a9a7-4385-a7ca-2bb9488c41a9
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 0b5e2be0-ae86-40b3-add2-2cf446fa6996
+      m_Path: <Keyboard>/escape
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pause Button
+      m_Flags: 0
     m_Flags: 0
   _pausePanel: {fileID: 0}

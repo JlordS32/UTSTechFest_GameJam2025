@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Well : MonoBehaviour
 {
+    [SerializeField] AudioClip _collectWaterSound;
     CurrencyManager _waterManager;
 
     void Awake()
@@ -11,6 +12,7 @@ public class Well : MonoBehaviour
 
     void OnMouseDown()
     {
+        AudioManager.Instance.PlaySound(_collectWaterSound);
         WellIsPressed();
     }
 

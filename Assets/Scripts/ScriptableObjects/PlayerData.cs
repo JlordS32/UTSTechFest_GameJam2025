@@ -40,7 +40,7 @@ public class PlayerData : ScriptableObject
         }
     }
 
-    private float GetRequiredEXP(int level)
+    public float GetRequiredEXP(int level)
     {
         return level * EXP_LEVEL_UP_RATE * BASE_EXP;
     }
