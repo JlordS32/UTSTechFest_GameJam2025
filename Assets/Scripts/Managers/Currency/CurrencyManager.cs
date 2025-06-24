@@ -20,10 +20,10 @@ public class CurrencyManager : MonoBehaviour
     [SerializeField] float _clickMultiplier = 1f;
 
     [Header("Level Up Rate")]
-    [SerializeField] float _waterPerClickUpgrade = 1.5f;
     [SerializeField] float _waterPerTickUpgrade = 1.5f;
+    [SerializeField] float _seedPerTickUpgrade = 1.5f;
+    [SerializeField] float _waterPerClickUpgrade = 1.2f;
     [SerializeField] float _seedPerClickUpgrade = 1.2f;
-    [SerializeField] float _seedPerTickUpgrade = 1.2f;
     [SerializeField] float _consumptionRateUpgrade = 1.2f;
 
     [Header("Upgrade Costs")]
@@ -61,11 +61,19 @@ public class CurrencyManager : MonoBehaviour
         }
     }
 
+    public float TickMultiplier() => _tickMultiplier;
+    public float ClickMultiplier() => _clickMultiplier;
+    public void IncreaseMultiplier()
+    {
+        _tickMultiplier *= 1.1f;
+        _clickMultiplier *= 1.1f;
+    }
+
     void IncrementCurrency()
     {
-        _water += _waterPerTick * _tickMultiplier;
+        _water += _waterPerTick;
         _sunlight += _sunlightPerTick * _tickMultiplier;
-        _seed += _seedPerTick * _tickMultiplier;
+        _seed += _seedPerTick;
     }
 
     void UpdateCurrencyText()
