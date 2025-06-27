@@ -39,14 +39,7 @@ public class CurrencyGenerator : MonoBehaviour
         {
             // Add value based on 
             foreach (CurrencyType type in Enum.GetValues(typeof(CurrencyType)))
-                if (type.Equals(CurrencyType.Sunlight))
-                {
-                    _storage.Add(type, _rates[type] * _sunMultiplier);
-                }
-                else
-                {
-                    _storage.Add(type, _rates[type]);
-                }
+                _storage.Add(type, _rates[type]);
 
             // Reset timer
             _timer = 0f;
@@ -56,6 +49,7 @@ public class CurrencyGenerator : MonoBehaviour
     // GETTERS & SETTERS
     public float GetRate(CurrencyType type) => _rates[type];
     public float GetRateLevel(CurrencyType type) => _rateLevel[type];
+    public void SetRate(CurrencyType type, float rate) => _rates[type] = rate;
     public void UpgradeRate(CurrencyType type)
     {
         _rates[type] *= _baseRateIncrease;

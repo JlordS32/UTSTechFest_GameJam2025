@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 463255277409326595}
   - component: {fileID: 7189956933472369818}
-  - component: {fileID: 4719444264816016751}
   - component: {fileID: 162525885257143985}
   m_Layer: 0
   m_Name: Well
@@ -68,7 +67,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.09010553, y: 0.34403986}
+  m_Offset: {x: 0.09010553, y: -1.6861398}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -78,21 +77,8 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.851262, y: 2.965942}
+  m_Size: {x: 2.851262, y: 3.143886}
   m_EdgeRadius: 0
---- !u!114 &4719444264816016751
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3785188585700924626}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d119a07e1b4ea84c9016ebe5d1f2726, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _collectWaterSound: {fileID: 8300000, guid: 0b8ef4c4aa1b7854da9d04c8c1aea215, type: 3}
 --- !u!114 &162525885257143985
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -31,31 +31,11 @@ public class UIManager : MonoBehaviour
 
     void Start()
     {
-        var currency = GetComponent<CurrencyManager>();
-
         // AddUpgrade("Water Generation",
         //     () => currency.IncreaseWaterRate(),
         //     () => $"{NumberFormatter.Format(currency.GetWaterPerTick())}/s",
         //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterRateLevel()))} suns",
         //     () => $"Level: {currency.GetWaterRateLevel()}");
-
-        // AddUpgrade("Seed Generation",
-        //     () => currency.IncreaseSeedRate(),
-        //     () => $"{NumberFormatter.Format(currency.GetSeedPerTick())}/s",
-        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedRateLevel()))} suns",
-        //     () => $"Level: {currency.GetSeedRateLevel()}");
-
-        // AddUpgrade("Crop Click Rate",
-        //     () => currency.IncreaseSeedPerClick(),
-        //     () => $"{NumberFormatter.Format(currency.GetSeedPerClick())}/click",
-        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedClickLevel()))} suns",
-        //     () => $"Level: {currency.GetSeedClickLevel()}");
-
-        // AddUpgrade("Well Click Rate",
-        //     () => currency.IncreaseWaterPerClick(),
-        //     () => $"{NumberFormatter.Format(currency.GetWaterPerClick())}/click",
-        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterClickLevel()))} suns",
-        //     () => $"Level: {currency.GetWaterClickLevel()}");
 
         _upgradePanel.Build(_entries);
     }
