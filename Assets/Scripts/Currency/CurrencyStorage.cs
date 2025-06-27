@@ -23,13 +23,18 @@ public class CurrencyStorage : MonoBehaviour
     {
         _storage[type].Add(amount);
 
-        Debug.Log($"{type}: {_storage[type].Value}");
-
         // UI Update
         _uiManager.UpdateCurrencyText(type, _storage[type].Value);
     }
 
-    public bool Spend(CurrencyType type, float amount) => _storage[type].Spend(amount);
+    public bool Spend(CurrencyType type, float amount)
+    {
+        bool spent = _storage[type].Spend(amount);
+        _uiManager.UpdateCurrencyText(type, _storage[type].Value);
+
+        return spent;
+    }
+
     public float Get(CurrencyType type) => _storage[type].Value;
 
     // RESET

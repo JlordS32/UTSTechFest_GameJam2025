@@ -1,13 +1,10 @@
-using System;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlantGrow : MonoBehaviour
 {
     // PROPERTIES
     [Header("Base")]
-    [SerializeField] PlayerData _playerData;
     [SerializeField] List<GameObject> _levelPrefabs;
     [SerializeField] Transform _spriteParent;
 
@@ -19,42 +16,53 @@ public class PlantGrow : MonoBehaviour
     [SerializeField] AudioClip _growUpSound;
     [SerializeField] AudioClip _waterPlantSound;
 
+    [Header("Level up rates")]
+    [SerializeField] PlayerStatConfig _playerStatConfig;
+
     // REFERENCES
     GameObject _currentSprite;
     UIManager _uiManager;
     CurrencyStorage _currencyStorage;
+    PlayerData _playerData;
 
     // VARIABLES
     int _lastKnownLevel = -1;
     int _lastKnownIndex = -1;
 
-    void Start()
+    void Awake()
     {
-        _uiManager =  FindFirstObjectByType<UIManager>();
-        _playerData.ResetData();
-        UpdateSprite();
+        _uiManager = FindFirstObjectByType<UIManager>();
+        _currencyStorage = FindAnyObjectByType<CurrencyStorage>();
+        _playerData = new PlayerData(_playerStatConfig);
     }
 
     public void OnTest()
     {
-        _playerData.AddEXP(10);
+        _playerData.AddExp(10);
     }
 
     void Update()
     {
-        if (_playerData.LVL != _lastKnownLevel)
+        int currLevel = (int)_playerData.Get(PlayerStats.Level);
+        if (_playerData.Get(PlayerStats.Level) != _lastKnownLevel)
         {
-            if (_lastKnownLevel > 1)
-                AudioManager.Instance.PlaySound(_levelUpSound);
-            _lastKnownLevel = _playerData.LVL;
-            _uiManager.UpdateLevelText(_playerData.LVL);
+            // Play audio on level up
+            AudioManager.Instance.PlaySound(_levelUpSound);
+            _lastKnownLevel = currLevel;
+
+            // UI Handling
+            _uiManager.UpdateLevelText(currLevel);
+            _uiManager.UpdateExpText(_playerData.Get(PlayerStats.EXP), _playerData.GetRequiredEXP(currLevel));
+
+            // Sprite Handling
             UpdateSprite();
         }
     }
 
     void UpdateSprite()
     {
-        int index = Mathf.Clamp((_playerData.LVL - 1) / _levelGap, 0, _levelPrefabs.Count - 1);
+        int currLevel = (int)_playerData.Get(PlayerStats.Level);
+        int index = Mathf.Clamp((currLevel - 1) / _levelGap, 0, _levelPrefabs.Count - 1);
         _lastKnownIndex = index;
 
         if (index != _lastKnownIndex && index > 0)
@@ -76,10 +84,17 @@ public class PlantGrow : MonoBehaviour
 
     void WaterPlant()
     {
-        if (_currencyStorage.Spend(CurrencyType.Water, _currencyStorage.Get(CurrencyType.Water)))
+        if (_playerData != null)
         {
-            _playerData.AddEXP(10);
-            _uiManager.UpdateExpText(_playerData.EXP, _playerData.GetRequiredEXP(_playerData.LVL));
+            int currLevel = (int)_playerData.Get(PlayerStats.Level);
+            float waterAmount = _currencyStorage.Get(CurrencyType.Water);
+
+            if (_currencyStorage.Spend(CurrencyType.Water, _currencyStorage.Get(CurrencyType.Water)))
+            {
+                _playerData.AddExp(waterAmount);
+                _uiManager.UpdateExpText(_playerData.Get(PlayerStats.EXP), _playerData.GetRequiredEXP(currLevel));
+                _uiManager.UpdateLevelText(currLevel);
+            }
         }
     }
 }

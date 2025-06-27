@@ -10,7 +10,6 @@ public class HoverFollowSprite : MonoBehaviour
 
     void OnMouseEnter()
     {
-        Debug.Log("entering");
         if (followSprite != null)
         {
             followingObject = new GameObject("FollowSprite");
