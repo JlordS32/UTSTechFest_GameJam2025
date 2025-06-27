@@ -88,9 +88,11 @@ public class PlantGrow : MonoBehaviour
         if (_playerData != null)
         {
             int currLevel = (int)_playerData.Get(PlayerStats.Level);
+            float waterAmount = _currencyStorage.Get(CurrencyType.Water);
+
             if (_currencyStorage.Spend(CurrencyType.Water, _currencyStorage.Get(CurrencyType.Water)))
             {
-                _playerData.AddExp(10);
+                _playerData.AddExp(waterAmount);
                 _uiManager.UpdateExpText(_playerData.Get(PlayerStats.EXP), _playerData.GetRequiredEXP(currLevel));
             }
         }
