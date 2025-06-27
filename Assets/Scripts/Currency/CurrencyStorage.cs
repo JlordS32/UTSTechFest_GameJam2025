@@ -23,8 +23,6 @@ public class CurrencyStorage : MonoBehaviour
     {
         _storage[type].Add(amount);
 
-        Debug.Log($"{type}: {_storage[type].Value}");
-
         // UI Update
         _uiManager.UpdateCurrencyText(type, _storage[type].Value);
     }

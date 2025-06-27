@@ -106,7 +106,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7285f157a74f0994dbd0805f81e3fd58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playerData: {fileID: 11400000, guid: 372a9b79e06c88040989c935fd67e412, type: 2}
   _levelPrefabs:
   - {fileID: 6464348975215253556, guid: 845ef43a0423e5d45b87770ce871fb02, type: 3}
   - {fileID: 5076778172527259267, guid: 72da999769a1f8b4faa914ff9e4acd8e, type: 3}
@@ -134,6 +133,7 @@ MonoBehaviour:
   _levelUpSound: {fileID: 8300000, guid: e828033447413344c809c33ac5cd75c5, type: 3}
   _growUpSound: {fileID: 8300000, guid: 83f204991fc067b44ad45022286b8b8d, type: 3}
   _waterPlantSound: {fileID: 8300000, guid: 0b8ef4c4aa1b7854da9d04c8c1aea215, type: 3}
+  _playerStatConfig: {fileID: 11400000, guid: 9117e2f4c4b299444ae19ccb35242cea, type: 2}
 --- !u!61 &5545265021587082298
 BoxCollider2D:
   m_ObjectHideFlags: 0

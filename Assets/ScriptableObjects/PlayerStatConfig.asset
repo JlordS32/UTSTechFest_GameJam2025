@@ -9,7 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a1cc8b113bbea449b059692c3ffcd7e, type: 3}
-  m_Name: UpgradeList
+  m_Script: {fileID: 11500000, guid: d1c5f510ccac6e743b6418e931c779bf, type: 3}
+  m_Name: PlayerStatConfig
   m_EditorClassIdentifier: 
-  upgrades: []
+  expLevelUpRate: 2.5
+  baseExp: 10
+  atkPerLevel: 2
+  hpPerLevel: 5
+  defPerLevel: 1
+  spdPerLevel: 0.5
+  maxLevel: 100
