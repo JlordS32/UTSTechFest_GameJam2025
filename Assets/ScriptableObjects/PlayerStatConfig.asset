@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1c5f510ccac6e743b6418e931c779bf, type: 3}
   m_Name: PlayerStatConfig
   m_EditorClassIdentifier: 
-  expLevelUpRate: 2.5
+  expLevelUpRate: 1.5
   baseExp: 10
   atkPerLevel: 2
   hpPerLevel: 5

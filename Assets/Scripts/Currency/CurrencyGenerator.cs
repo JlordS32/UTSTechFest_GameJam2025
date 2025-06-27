@@ -16,7 +16,6 @@ public class CurrencyGenerator : MonoBehaviour
     Dictionary<CurrencyType, int> _rateLevel = new();
     float _timer = 0f;
     readonly float _defaultRate = 0.5f;
-    float _sunMultiplier = 1f;
 
     void Awake()
     {
@@ -48,8 +47,9 @@ public class CurrencyGenerator : MonoBehaviour
 
     // GETTERS & SETTERS
     public float GetRate(CurrencyType type) => _rates[type];
-    public float GetRateLevel(CurrencyType type) => _rateLevel[type];
+    public int GetRateLevel(CurrencyType type) => _rateLevel[type];
     public void SetRate(CurrencyType type, float rate) => _rates[type] = rate;
+    
     public void UpgradeRate(CurrencyType type)
     {
         _rates[type] *= _baseRateIncrease;

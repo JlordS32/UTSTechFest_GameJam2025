@@ -15,14 +15,13 @@ public class UpgradeManager : MonoBehaviour
 
     // CUSTOM FUNCTIONS HERE
     // ---------------------
-    float GetCost(int level) => Mathf.Round(_baseCost * Mathf.Pow(_costMultiplier, level));
+    public float GetCost(int level) => Mathf.Round(_baseCost * Mathf.Pow(_costMultiplier, level));
 
-    public bool Upgrade(CurrencyType costType, int level, Action upgradeAction, out float spent)
+    public bool Upgrade(int level, Action upgradeAction)
     {
         float cost = GetCost(level);
-        spent = cost;
 
-        if (_storage.Spend(costType, cost))
+        if (_storage.Spend(CurrencyType.Sunlight, cost))
         {
             upgradeAction?.Invoke();
             return true;

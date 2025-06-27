@@ -4,19 +4,29 @@ using TMPro;
 using UnityEngine.Events;
 using System;
 
+
 public class UIManager : MonoBehaviour
 {
+    // PROPERTIES
     [Header("Sidebar UI")]
     [SerializeField] UpgradePanelUI _upgradePanel;
 
     [Header("Currency UI")]
     [SerializeField] TextMeshProUGUI _waterTextUI;
     [SerializeField] TextMeshProUGUI _sunlightTextUI;
-    [SerializeField] TextMeshProUGUI _seedTextUI;
 
     [Header("Level UI")]
     [SerializeField] TextMeshProUGUI _levelTextUI;
     [SerializeField] TextMeshProUGUI _expTextUI;
+
+    [Header("Upgrades Config")]
+    [SerializeField] List<UpgradeEntry> _upgradeConfigs;
+
+    // REFERENCES
+    UpgradeManager _upgradeManager;
+    CurrencyGenerator _currencyGenerator;
+    CurrencyClicker _currencyClicker;
+
 
     // VARIABLES
     Dictionary<CurrencyType, TextMeshProUGUI> _currencyTexts = new();
@@ -26,21 +36,24 @@ public class UIManager : MonoBehaviour
     {
         _currencyTexts[CurrencyType.Water] = _waterTextUI;
         _currencyTexts[CurrencyType.Sunlight] = _sunlightTextUI;
-        _currencyTexts[CurrencyType.Seed] = _seedTextUI;
+
+        _upgradeManager = FindFirstObjectByType<UpgradeManager>();
+        _currencyGenerator = FindFirstObjectByType<CurrencyGenerator>();
+        _currencyClicker = FindAnyObjectByType<CurrencyClicker>();
     }
 
     void Start()
     {
-        // AddUpgrade("Water Generation",
-        //     () => currency.IncreaseWaterRate(),
-        //     () => $"{NumberFormatter.Format(currency.GetWaterPerTick())}/s",
-        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterRateLevel()))} suns",
-        //     () => $"Level: {currency.GetWaterRateLevel()}");
+        AddUpgrade("Water Generation",
+            () => _upgradeManager.Upgrade(_currencyGenerator.GetRateLevel(CurrencyType.Water), () => _currencyGenerator.UpgradeRate(CurrencyType.Water)),
+            () => $"{NumberFormatter.Format(_currencyGenerator.GetRate(CurrencyType.Water))}/s",
+            () => $"Cost: {NumberFormatter.Format(_upgradeManager.GetCost(_currencyGenerator.GetRateLevel(CurrencyType.Water)))} suns",
+            () => $"Level: {_currencyGenerator.GetRateLevel(CurrencyType.Water)}");
 
         _upgradePanel.Build(_entries);
     }
 
-    void AddUpgrade(string name, UnityAction logic, Func<string> getRate, Func<string> getButtonLabel, Func<string> getLevel)
+    public void AddUpgrade(string name, UnityAction logic, Func<string> getRate, Func<string> getButtonLabel, Func<string> getLevel)
     {
         _entries.Add(new UpgradeEntry
         {
@@ -51,7 +64,6 @@ public class UIManager : MonoBehaviour
             GetLevel = getLevel
         });
     }
-
 
     public void UpdateCurrencyText(CurrencyType type, float value)
     {

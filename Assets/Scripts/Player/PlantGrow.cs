@@ -44,7 +44,6 @@ public class PlantGrow : MonoBehaviour
     void Update()
     {
         int currLevel = (int)_playerData.Get(PlayerStats.Level);
-        Debug.Log(currLevel);
         if (_playerData.Get(PlayerStats.Level) != _lastKnownLevel)
         {
             // Play audio on level up
@@ -53,6 +52,7 @@ public class PlantGrow : MonoBehaviour
 
             // UI Handling
             _uiManager.UpdateLevelText(currLevel);
+            _uiManager.UpdateExpText(_playerData.Get(PlayerStats.EXP), _playerData.GetRequiredEXP(currLevel));
 
             // Sprite Handling
             UpdateSprite();
@@ -78,7 +78,6 @@ public class PlantGrow : MonoBehaviour
 
     void OnMouseDown()
     {
-        Debug.Log("I'm clicked");
         AudioManager.Instance.PlaySound(_waterPlantSound);
         WaterPlant();
     }
@@ -94,6 +93,7 @@ public class PlantGrow : MonoBehaviour
             {
                 _playerData.AddExp(waterAmount);
                 _uiManager.UpdateExpText(_playerData.Get(PlayerStats.EXP), _playerData.GetRequiredEXP(currLevel));
+                _uiManager.UpdateLevelText(currLevel);
             }
         }
     }
