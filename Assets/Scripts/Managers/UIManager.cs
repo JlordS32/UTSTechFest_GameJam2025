@@ -18,43 +18,44 @@ public class UIManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI _levelTextUI;
     [SerializeField] TextMeshProUGUI _expTextUI;
 
+    // VARIABLES
+    Dictionary<CurrencyType, TextMeshProUGUI> _currencyTexts = new();
     List<UpgradeEntry> _entries = new();
 
-    AudioManager _audioManager;
+    void Awake()
+    {
+        _currencyTexts[CurrencyType.Water] = _waterTextUI;
+        _currencyTexts[CurrencyType.Sunlight] = _sunlightTextUI;
+        _currencyTexts[CurrencyType.Seed] = _seedTextUI;
+    }
 
     void Start()
     {
         var currency = GetComponent<CurrencyManager>();
 
-        AddUpgrade("Water Generation",
-            () => currency.IncreaseWaterRate(),
-            () => $"{NumberFormatter.Format(currency.GetWaterPerTick())}/s",
-            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterRateLevel()))} suns",
-            () => $"Level: {currency.GetWaterRateLevel()}");
+        // AddUpgrade("Water Generation",
+        //     () => currency.IncreaseWaterRate(),
+        //     () => $"{NumberFormatter.Format(currency.GetWaterPerTick())}/s",
+        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterRateLevel()))} suns",
+        //     () => $"Level: {currency.GetWaterRateLevel()}");
 
-        AddUpgrade("Seed Generation",
-            () => currency.IncreaseSeedRate(),
-            () => $"{NumberFormatter.Format(currency.GetSeedPerTick())}/s",
-            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedRateLevel()))} suns",
-            () => $"Level: {currency.GetSeedRateLevel()}");
+        // AddUpgrade("Seed Generation",
+        //     () => currency.IncreaseSeedRate(),
+        //     () => $"{NumberFormatter.Format(currency.GetSeedPerTick())}/s",
+        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedRateLevel()))} suns",
+        //     () => $"Level: {currency.GetSeedRateLevel()}");
 
-        AddUpgrade("Crop Click Rate",
-            () => currency.IncreaseSeedPerClick(),
-            () => $"{NumberFormatter.Format(currency.GetSeedPerClick())}/click",
-            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedClickLevel()))} suns",
-            () => $"Level: {currency.GetSeedClickLevel()}");
+        // AddUpgrade("Crop Click Rate",
+        //     () => currency.IncreaseSeedPerClick(),
+        //     () => $"{NumberFormatter.Format(currency.GetSeedPerClick())}/click",
+        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetSeedClickLevel()))} suns",
+        //     () => $"Level: {currency.GetSeedClickLevel()}");
 
-        AddUpgrade("Well Click Rate",
-            () => currency.IncreaseWaterPerClick(),
-            () => $"{NumberFormatter.Format(currency.GetWaterPerClick())}/click",
-            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterClickLevel()))} suns",
-            () => $"Level: {currency.GetWaterClickLevel()}");
-
-        AddUpgrade("Consumption Rate",
-            () => currency.IncreaseConsumptionRate(),
-            () => $"{NumberFormatter.Format(currency.GetConsumptionRate())}/s",
-            () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetConsumptionRateLevel()))} suns",
-            () => $"Level: {currency.GetConsumptionRateLevel()}");
+        // AddUpgrade("Well Click Rate",
+        //     () => currency.IncreaseWaterPerClick(),
+        //     () => $"{NumberFormatter.Format(currency.GetWaterPerClick())}/click",
+        //     () => $"Cost: {NumberFormatter.Format(currency.GetSunlightUpgradeCost(currency.GetWaterClickLevel()))} suns",
+        //     () => $"Level: {currency.GetWaterClickLevel()}");
 
         _upgradePanel.Build(_entries);
     }
@@ -72,19 +73,10 @@ public class UIManager : MonoBehaviour
     }
 
 
-    public void UpdateWaterText(float value)
+    public void UpdateCurrencyText(CurrencyType type, float value)
     {
-        _waterTextUI.text = $"Water: {NumberFormatter.Format(value)}";
-    }
-
-    public void UpdateSunlightText(float value)
-    {
-        _sunlightTextUI.text = $"Sunlight: {NumberFormatter.Format(value)}";
-    }
-
-    public void UpdateSeedText(float value)
-    {
-        _seedTextUI.text = $"Seed: {NumberFormatter.Format(value)}";
+        if (_currencyTexts.TryGetValue(type, out var uiText))
+            uiText.text = $"{type}: {NumberFormatter.Format(value)}";
     }
 
     public void UpdateLevelText(int value)
