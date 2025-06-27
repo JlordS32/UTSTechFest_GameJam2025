@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5034133077521071069}
   - component: {fileID: 699117181156822565}
-  - component: {fileID: 8203316594294222967}
   m_Layer: 0
   m_Name: UIManager
   m_TagString: Untagged
@@ -51,31 +50,3 @@ MonoBehaviour:
   _seedTextUI: {fileID: 0}
   _levelTextUI: {fileID: 0}
   _expTextUI: {fileID: 0}
---- !u!114 &8203316594294222967
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 618547456199796932}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4a8522cf11a749543906dfb2b12acf53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _interval: 1
-  _waterPerTick: 0.5
-  _sunlightPerTick: 0.5
-  _seedPerTick: 0.5
-  _waterPerClick: 0.125
-  _seedPerClick: 0.125
-  _consumptionPerClick: 1
-  _tickMultiplier: 1
-  _clickMultiplier: 1
-  _waterPerTickUpgrade: 1.5
-  _seedPerTickUpgrade: 1.5
-  _waterPerClickUpgrade: 1.2
-  _seedPerClickUpgrade: 1.2
-  _consumptionRateUpgrade: 1.2
-  _baseCost: 2
-  _multiplier: 1.5
